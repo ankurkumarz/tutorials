@@ -1,11 +1,12 @@
 repo_name: ankurkumarz/tutorials
 report_id: 2c722fa9c0f538f400ad078b6b96f225
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T16:07:29+00:00'
+timestamp: '2024-01-05T08:30:51+00:00'
 requested_by: jzheaux
 provider: github
 branch: master
-detected_tools_count: 996
+detected_tools_count: 998
 tools:
 - name: Asciidoctor
   description: An open source, pure Ruby processor for converting AsciiDoc documents
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2924/gvQpykZd_400x400.jpg
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/asciidoctor/pom.xml
   detection_source: asciidoctor/pom.xml
   last_updated_by: Eugen Paraschiv
   last_updated_on: 2018-09-25 18:09:00.000000000 Z
@@ -28,6 +30,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials
   detection_source: Repo Metadata
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -37,6 +40,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials
   detection_source: Repo Metadata
 - name: Clojure
   description: A dynamic programming language that targets the Java Virtual Machine
@@ -46,6 +50,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1003/Clojure_300x300.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials
   detection_source: Repo Metadata
 - name: Gherkin
   description: A plain-text language with a simple structure
@@ -55,6 +60,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2460/default_aff27c02548fadb1b7e6f85a2b0da1c5dca5cc08.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials
   detection_source: Repo Metadata
 - name: Golang
   description: An open source programming language that makes it easy to build simple,
@@ -66,6 +72,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/libraries-data/src/main/resources/kafka-connect/04_Custom/docker-compose.yaml
   detection_source: libraries-data/src/main/resources/kafka-connect/04_Custom/docker-compose.yaml
   last_updated_by: Markus Gulden
   last_updated_on: 2019-01-01 14:40:15.000000000 Z
@@ -78,6 +85,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/997/default_7ff5fcd857f42ad25149f659693d8930bffddf14.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials
   detection_source: Repo Metadata
 - name: Handlebars.js
   description: Minimal Templating on Steroids
@@ -87,6 +95,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/service/1143/Handlebars.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials
   detection_source: Repo Metadata
 - name: Java
   description: A concurrent, class-based, object-oriented, language specifically designed
@@ -110,6 +119,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4522/652rxwyK_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/guest/deep-jsf/pom.xml
   detection_source: guest/deep-jsf/pom.xml
   last_updated_by: Sergey Petunin
   last_updated_on: 2018-01-18 10:50:38.000000000 Z
@@ -122,6 +132,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ankurkumarz/tutorials
   detection_source: Repo Metadata
 - name: Kotlin
   description: Statically typed Programming Language targeting JVM and JavaScript
@@ -131,6 +142,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/3750/pCfEzr6L.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials
   detection_source: Repo Metadata
 - name: Mustache
   description: Logic-less templates
@@ -140,6 +152,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/service/1142/197655.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials
   detection_source: Repo Metadata
 - name: Perl
   description: Highly capable, feature-rich programming language with over 26 years
@@ -150,6 +163,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1048/perl.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -160,6 +174,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials
   detection_source: Repo Metadata
 - name: R Language
   description: A language and environment for statistical computing and graphics
@@ -169,6 +184,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1213/r-logo.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials
   detection_source: Repo Metadata
 - name: Ruby
   description: A dynamic, interpreted, open source programming language with a focus
@@ -179,6 +195,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials
   detection_source: Repo Metadata
 - name: SQL
   description: It is a domain-specific language used in programming
@@ -188,6 +205,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/apache-olingo/olingo2/src/main/resources/data.sql
   detection_source: apache-olingo/olingo2/src/main/resources/data.sql
   last_updated_by: psevestre
   last_updated_on: 2019-05-08 05:48:37.000000000 Z
@@ -200,6 +218,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1012/scala.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials
   detection_source: Repo Metadata
 - name: Smarty
   description: Template engine for PHP
@@ -209,6 +228,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/service/3693/smarty.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials
   detection_source: Repo Metadata
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
@@ -219,6 +239,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/ankurkumarz/tutorials
   detection_source: Repo Metadata
 - name: ceph
   description: A free-software storage platform
@@ -228,6 +249,7 @@ tools:
   category: Languages & Frameworks
   sub_category: File Storage
   image_url: https://img.stackshare.io/service/1818/cephglyph_copy_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/netflix-modules/genie/src/main/resources/com/baeldung/netflix/genie/docker/docker-compose.yml
   detection_source: netflix-modules/genie/src/main/resources/com/baeldung/netflix/genie/docker/docker-compose.yml
   last_updated_by: binary-joe
   last_updated_on: 2019-11-19 23:17:33.000000000 Z
@@ -240,6 +262,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Concurrency Frameworks
   image_url: https://img.stackshare.io/service/1773/bxLhidly.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/akka-http/pom.xml
   detection_source: akka-http/pom.xml
   last_updated_by: Kotharu
   last_updated_on: 2018-10-21 12:49:00.000000000 Z
@@ -252,6 +275,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/gradle/gradle-employee-app/build.gradle
   detection_source: gradle/gradle-employee-app/build.gradle
   last_updated_by: sasam0320
   last_updated_on: 2020-04-25 05:32:20.000000000 Z
@@ -292,6 +316,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Java Tools
   image_url: https://img.stackshare.io/service/4456/ymCgaIO0_400x400.jpg
+  detection_source_url: https://github.com/ankurkumarz/tutorials
   detection_source: Repo Metadata
 - name: Autoprefixer
   description: PostCSS plugin to parse CSS and add vendor prefixes to CSS rules
@@ -301,6 +326,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jhipster-5/bookstore-monolith/package.json
   detection_source: jhipster-5/bookstore-monolith/package.json
   last_updated_by: Michael Pratt
   last_updated_on: 2019-03-19 12:31:54.000000000 Z
@@ -312,6 +338,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Serialization Frameworks
   image_url: https://img.stackshare.io/service/4265/avro.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/apache-avro/pom.xml
   detection_source: apache-avro/pom.xml
   last_updated_by: spandey
   last_updated_on: 2018-07-11 08:07:41.000000000 Z
@@ -325,6 +352,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/6604/nEeG2U6-_400x400.jpg
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/axon/pom.xml
   detection_source: axon/pom.xml
   last_updated_by: Steven van Beelen
   last_updated_on: 2018-12-18 13:43:32.000000000 Z
@@ -366,6 +394,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Java Tools
   image_url: https://ucarecdn.com/d8ec839d-4d66-4c08-8297-9e2be82f6b75/
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/play-framework/websockets/build.sbt
   detection_source: play-framework/websockets/build.sbt
   last_updated_by: Alfred Samanga
   last_updated_on: 2019-11-23 11:09:07.000000000 Z
@@ -378,6 +407,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Concurrency Frameworks
   image_url: https://img.stackshare.io/service/3278/netty_icon_256px.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/libraries-server/src/main/java/com/baeldung/netty/NettyClient.java
   detection_source: libraries-server/src/main/java/com/baeldung/netty/NettyClient.java
   last_updated_by: Anton
   last_updated_on: 2017-06-07 05:52:23.000000000 Z
@@ -390,6 +420,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/guest/webservices/rest-client/rest-client/package.json
   detection_source: guest/webservices/rest-client/rest-client/package.json
   last_updated_by: lor6
   last_updated_on: 2017-06-25 09:58:09.000000000 Z
@@ -401,6 +432,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Java Tools
   image_url: https://img.stackshare.io/service/5807/default_cbd8ab670309059d7e315252d307d409aa40d793.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/aws-reactive/pom.xml
   detection_source: aws-reactive/pom.xml
   last_updated_by: amit.pandey
   last_updated_on: 2020-03-15 12:52:24.000000000 Z
@@ -412,6 +444,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Serialization Frameworks
   image_url: https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/grpc/pom.xml
   detection_source: grpc/pom.xml
   last_updated_by: amit2103
   last_updated_on: 2018-11-18 14:39:03.000000000 Z
@@ -424,6 +457,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/3881/da8da0c0e6dfbfc596f787ade49381a6_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/persistence-modules/deltaspike/pom.xml
   detection_source: persistence-modules/deltaspike/pom.xml
   last_updated_by: amit2103
   last_updated_on: 2018-04-26 12:37:47.000000000 Z
@@ -463,6 +497,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Java Tools
   image_url: https://img.stackshare.io/service/2190/6407041.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/rxjava-core/pom.xml
   detection_source: rxjava-core/pom.xml
   last_updated_by: Tomasz Lelek
   last_updated_on: 2017-02-01 09:58:07.000000000 Z
@@ -475,6 +510,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jhipster-5/bookstore-monolith/package.json
   detection_source: jhipster-5/bookstore-monolith/package.json
   last_updated_by: Michael Pratt
   last_updated_on: 2019-03-19 12:31:54.000000000 Z
@@ -488,6 +524,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/2927/nPzvMuo2_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jhipster-5/bookstore-monolith/pom.xml
   detection_source: jhipster-5/bookstore-monolith/pom.xml
   last_updated_by: amit2103
   last_updated_on: 2019-04-07 18:42:30.000000000 Z
@@ -500,6 +537,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/5494/default_b403ef08976083aea6d4caf5a4f19f3325c751e5.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jhipster/jhipster-microservice/car-app/pom.xml
   detection_source: jhipster/jhipster-microservice/car-app/pom.xml
   last_updated_by: amit2103
   last_updated_on: 2019-04-25 19:09:53.000000000 Z
@@ -513,6 +551,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/2006/spring-framework-project-logo.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/apache-olingo/olingo2/pom.xml
   detection_source: apache-olingo/olingo2/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
@@ -524,6 +563,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/2971/UuHV6j99_400x400.jpg
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/vaadin/pom.xml
   detection_source: vaadin/pom.xml
   last_updated_by: amit2103
   last_updated_on: 2019-08-25 13:39:24.000000000 Z
@@ -536,6 +576,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jhipster-5/bookstore-monolith/package.json
   detection_source: jhipster-5/bookstore-monolith/package.json
   last_updated_by: Michael Pratt
   last_updated_on: 2019-03-19 12:31:54.000000000 Z
@@ -576,6 +617,7 @@ tools:
   category: Data Stores
   sub_category: Message Queue
   image_url: https://img.stackshare.io/service/1062/default_08edb6f82e2c79424efc1e297ab096e50acd8e0b.jpg
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/atomikos/pom.xml
   detection_source: atomikos/pom.xml
   last_updated_by: Kumar Chandrakant
   last_updated_on: 2020-04-12 04:36:34.000000000 Z
@@ -588,6 +630,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/7309/derby.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/atomikos/pom.xml
   detection_source: atomikos/pom.xml
   last_updated_by: Kumar Chandrakant
   last_updated_on: 2020-04-12 04:36:34.000000000 Z
@@ -601,6 +644,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1032/cassandra_small.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/ddd/src/test/resources/com/baeldung/dddhexagonalspring/docker-compose.yml
   detection_source: ddd/src/test/resources/com/baeldung/dddhexagonalspring/docker-compose.yml
   last_updated_by: Sorin Zamfir
   last_updated_on: 2020-02-01 10:47:34.000000000 Z
@@ -613,6 +657,7 @@ tools:
   category: Data Stores
   sub_category: MongoDB Hosting
   image_url: https://img.stackshare.io/service/201/reB72Lh4.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/libraries-data/src/main/resources/kafka-connect/04_Custom/docker-compose.yaml
   detection_source: libraries-data/src/main/resources/kafka-connect/04_Custom/docker-compose.yaml
   last_updated_by: Markus Gulden
   last_updated_on: 2019-01-01 14:40:15.000000000 Z
@@ -624,6 +669,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1089/KMIbGY8C.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/couchbase/pom.xml
   detection_source: couchbase/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
@@ -637,6 +683,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/11593/no-img.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/libraries-data/src/main/resources/kafka-connect/04_Custom/docker-compose.yaml
   detection_source: libraries-data/src/main/resources/kafka-connect/04_Custom/docker-compose.yaml
   last_updated_by: Markus Gulden
   last_updated_on: 2019-01-01 14:40:15.000000000 Z
@@ -662,6 +709,7 @@ tools:
   category: Data Stores
   sub_category: Cloud Storage
   image_url: https://img.stackshare.io/service/694/Cloud_Storage.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/google-cloud/pom.xml
   detection_source: google-cloud/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
@@ -674,6 +722,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/7879/GraphiQL.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/spring-boot-modules/spring-boot/pom.xml
   detection_source: spring-boot-modules/spring-boot/pom.xml
   last_updated_by: sampada
   last_updated_on: 2020-02-11 05:09:59.000000000 Z
@@ -685,6 +734,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/3105/h2-logo_square_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/apache-olingo/olingo2/pom.xml
   detection_source: apache-olingo/olingo2/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
@@ -697,6 +747,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1043/HBase-Twitter3.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/couchbase/pom.xml
   detection_source: couchbase/pom.xml
   last_updated_by: Kevin Gilmore
   last_updated_on: 2016-08-08 02:43:06.000000000 Z
@@ -708,6 +759,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/6958/yQ4763oZ_400x400.jpg
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/core-groovy-2/pom.xml
   detection_source: core-groovy-2/pom.xml
   last_updated_by: Anshul Bansal
   last_updated_on: 2019-04-14 19:02:14.000000000 Z
@@ -720,6 +772,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1044/elephant_rgb_sq.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/libraries-data/pom.xml
   detection_source: libraries-data/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
@@ -744,6 +797,7 @@ tools:
   category: Data Stores
   sub_category: Object Relational Mapper (ORM)
   image_url: https://img.stackshare.io/service/1756/1uNl_IZX.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/atomikos/pom.xml
   detection_source: atomikos/pom.xml
   last_updated_by: Kumar Chandrakant
   last_updated_on: 2020-04-12 04:36:34.000000000 Z
@@ -756,6 +810,7 @@ tools:
   category: Data Stores
   sub_category: Message Queue
   image_url: https://img.stackshare.io/service/1063/kazUJooF_400x400.jpg
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/libraries-6/pom.xml
   detection_source: libraries-6/pom.xml
   last_updated_by: mikr
   last_updated_on: 2020-04-29 18:49:15.000000000 Z
@@ -767,6 +822,7 @@ tools:
   category: Data Stores
   sub_category: Kafka Tools
   image_url: https://img.stackshare.io/service/8938/default_952e19080b823dcfc14ef0508ae6a783d35224f6.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/libraries-data/src/main/resources/kafka-connect/04_Custom/docker-compose.yaml
   detection_source: libraries-data/src/main/resources/kafka-connect/04_Custom/docker-compose.yaml
   last_updated_by: Markus Gulden
   last_updated_on: 2019-01-01 14:40:15.000000000 Z
@@ -778,6 +834,7 @@ tools:
   category: Data Stores
   sub_category: Stream Processing
   image_url: https://img.stackshare.io/service/9190/kazUJooF_400x400.jpg
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/libraries-6/pom.xml
   detection_source: libraries-6/pom.xml
   last_updated_by: mikr
   last_updated_on: 2020-04-29 18:49:15.000000000 Z
@@ -790,6 +847,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/1398/y1As8_s5_400x400.jpg
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jhipster-5/bookstore-monolith/pom.xml
   detection_source: jhipster-5/bookstore-monolith/pom.xml
   last_updated_by: amit2103
   last_updated_on: 2019-04-07 18:42:30.000000000 Z
@@ -801,6 +859,7 @@ tools:
   category: Data Stores
   sub_category: Message Queue
   image_url: https://img.stackshare.io/service/3670/mqtticon-large_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/libraries-server/pom.xml
   detection_source: libraries-server/pom.xml
   last_updated_by: Loredana Crusoveanu
   last_updated_on: 2018-07-31 19:39:22.000000000 Z
@@ -813,6 +872,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/6915/preview.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/libraries-2/pom.xml
   detection_source: libraries-2/pom.xml
   last_updated_by: Saurabh Kedia
   last_updated_on: 2019-04-02 05:07:26.000000000 Z
@@ -824,6 +884,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1030/leaf-360x360.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/ddd/pom.xml
   detection_source: ddd/pom.xml
   last_updated_by: Mike Wojtyna
   last_updated_on: 2018-11-08 17:54:05.000000000 Z
@@ -836,6 +897,7 @@ tools:
   category: Data Stores
   sub_category: Object Relational Mapper (ORM)
   image_url: https://img.stackshare.io/service/5582/1483254.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/mybatis/pom.xml
   detection_source: mybatis/pom.xml
   last_updated_by: Dhawal Kapil
   last_updated_on: 2019-11-24 08:03:51.000000000 Z
@@ -847,6 +909,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/azure/pom.xml
   detection_source: azure/pom.xml
   last_updated_by: aiet
   last_updated_on: 2018-05-23 08:46:55.000000000 Z
@@ -859,6 +922,7 @@ tools:
   category: Application Hosting
   sub_category: Realtime Backend / API
   image_url: https://img.stackshare.io/service/2066/nats-icon-color.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/libraries-5/pom.xml
   detection_source: libraries-5/pom.xml
   last_updated_by: mikr
   last_updated_on: 2020-04-26 20:34:22.000000000 Z
@@ -885,6 +949,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1026/jT-HJYJg.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/persistence-modules/spring-boot-persistence-2/src/main/java/com/baeldung/spring/oracle/pooling/configuration/OracleConfiguration.java
   detection_source: persistence-modules/spring-boot-persistence-2/src/main/java/com/baeldung/spring/oracle/pooling/configuration/OracleConfiguration.java
   last_updated_by: Aitor Cuesta
   last_updated_on: 2020-04-05 10:51:27.000000000 Z
@@ -896,6 +961,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1611/6bEpwjZ5_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/persistence-modules/orientdb/pom.xml
   detection_source: persistence-modules/orientdb/pom.xml
   last_updated_by: Dhawal Kapil
   last_updated_on: 2018-11-30 16:46:08.000000000 Z
@@ -907,6 +973,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/ddd/pom.xml
   detection_source: ddd/pom.xml
   last_updated_by: Mike Wojtyna
   last_updated_on: 2018-11-08 17:54:05.000000000 Z
@@ -918,6 +985,7 @@ tools:
   category: Data Stores
   sub_category: Message Queue
   image_url: https://img.stackshare.io/service/1061/default_df93e9a30d27519161b39d8c1d5c223c1642d187.jpg
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/rabbitmq/pom.xml
   detection_source: rabbitmq/pom.xml
   last_updated_by: Aram89
   last_updated_on: 2017-02-25 09:45:21.000000000 Z
@@ -944,6 +1012,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1071/sqlite.jpg
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/persistence-modules/spring-boot-persistence/pom.xml
   detection_source: persistence-modules/spring-boot-persistence/pom.xml
   last_updated_by: amit2103
   last_updated_on: 2018-10-20 05:57:08.000000000 Z
@@ -957,6 +1026,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/7624/IG6D4Ro2_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/atomikos/pom.xml
   detection_source: atomikos/pom.xml
   last_updated_by: Kumar Chandrakant
   last_updated_on: 2020-04-12 04:36:34.000000000 Z
@@ -968,6 +1038,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/2279/jooq-logo-white-750x750-padded.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/guava-modules/guava-21/pom.xml
   detection_source: guava-modules/guava-21/pom.xml
   last_updated_by: Devendra Tiwari
   last_updated_on: 2017-03-20 08:16:34.000000000 Z
@@ -980,6 +1051,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/testing-modules/junit-5-basics/pom.xml
   detection_source: testing-modules/junit-5-basics/pom.xml
   last_updated_by: Chirag Dewan
   last_updated_on: 2019-05-04 10:40:31.000000000 Z
@@ -991,6 +1063,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/algorithms-miscellaneous-2/src/main/resources/maze/maze1.txt
   detection_source: algorithms-miscellaneous-2/src/main/resources/maze/maze1.txt
   last_updated_by: deep20jain
   last_updated_on: 2018-02-06 20:07:38.000000000 Z
@@ -1017,6 +1090,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/847/66db62603f426a8fc6664081811be6d4.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jhipster/jhipster-microservice/gateway-app/package.json
   detection_source: jhipster/jhipster-microservice/gateway-app/package.json
   last_updated_by: Felipe Reis
   last_updated_on: 2017-05-07 17:00:32.000000000 Z
@@ -1029,6 +1103,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/2544/jasVAxyJ.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/spring-cucumber/pom.xml
   detection_source: spring-cucumber/pom.xml
   last_updated_by: amit2103
   last_updated_on: 2018-04-26 12:37:47.000000000 Z
@@ -1041,6 +1116,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials
   detection_source: Repo Metadata
 - name: ESLint
   description: The fully pluggable JavaScript code quality tool
@@ -1051,6 +1127,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/spring-security-modules/spring-security-react/src/main/webapp/WEB-INF/view/react/.eslintrc
   detection_source: spring-security-modules/spring-security-react/src/main/webapp/WEB-INF/view/react/.eslintrc
   last_updated_by: aiet
   last_updated_on: 2018-07-13 14:35:21.000000000 Z
@@ -1062,6 +1139,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1446/8cyY6D_m.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/libraries-server/pom.xml
   detection_source: libraries-server/pom.xml
   last_updated_by: Anshul Bansal
   last_updated_on: 2020-04-18 18:08:53.000000000 Z
@@ -1073,6 +1151,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/2662/kWjFjx3K_400x400.jpg
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/libraries-5/pom.xml
   detection_source: libraries-5/pom.xml
   last_updated_by: mikr
   last_updated_on: 2020-04-26 20:34:22.000000000 Z
@@ -1084,6 +1163,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials
   detection_source: Repo Metadata
 - name: GlassFish
   description: The Open Source Java EE Reference Implementation
@@ -1093,6 +1173,7 @@ tools:
   category: Application Hosting
   sub_category: Web Servers
   image_url: https://img.stackshare.io/service/3628/515GX-Cc_400x400.jpg
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/guest/tomcat-app/pom.xml
   detection_source: guest/tomcat-app/pom.xml
   last_updated_by: lor6
   last_updated_on: 2017-09-23 21:57:46.000000000 Z
@@ -1105,6 +1186,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/cas/cas-server/build.gradle
   detection_source: cas/cas-server/build.gradle
   last_updated_by: Seun Matt
   last_updated_on: 2020-03-29 20:36:54.000000000 Z
@@ -1116,6 +1198,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Fault Tolerance Tools
   image_url: https://img.stackshare.io/service/1758/cde558e9b4a1f07ff99f90d637c38388.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/hystrix/pom.xml
   detection_source: hystrix/pom.xml
   last_updated_by: amit2103
   last_updated_on: 2018-04-26 12:37:47.000000000 Z
@@ -1127,6 +1210,7 @@ tools:
   category: Application Hosting
   sub_category: Web Servers
   image_url: https://img.stackshare.io/service/2188/unnamed.jpg
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jee-7/pom.xml
   detection_source: jee-7/pom.xml
   last_updated_by: ccristian
   last_updated_on: 2016-06-08 20:05:48.000000000 Z
@@ -1166,6 +1250,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/670/jenkins.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jenkins/plugins/pom.xml
   detection_source: jenkins/plugins/pom.xml
   last_updated_by: Sanjay Patel
   last_updated_on: 2018-07-12 07:04:54.000000000 Z
@@ -1192,6 +1277,7 @@ tools:
   category: Application Hosting
   sub_category: Web Servers
   image_url: https://img.stackshare.io/service/1084/default_392a491b5c8bff92ffa39468611ad8f9c0ff1939.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/libraries-server/src/main/config/jetty.xml
   detection_source: libraries-server/src/main/config/jetty.xml
   last_updated_by: Anshul Bansal
   last_updated_on: 2020-04-18 18:08:53.000000000 Z
@@ -1218,6 +1304,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Container Tools
   image_url: https://img.stackshare.io/service/9663/default_a0119995387263e1035017a5ef7588f261ce82d2.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jhipster-5/bookstore-monolith/pom.xml
   detection_source: jhipster-5/bookstore-monolith/pom.xml
   last_updated_by: amit2103
   last_updated_on: 2019-04-07 18:42:30.000000000 Z
@@ -1243,6 +1330,7 @@ tools:
   category: Monitoring
   sub_category: Log Management
   image_url: https://img.stackshare.io/service/2923/05518ecaa42841e834421e9d6987b04f_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/akka-streams/src/main/resources/logback.xml
   detection_source: akka-streams/src/main/resources/logback.xml
   last_updated_by: amit2103
   last_updated_on: 2018-08-05 13:10:49.000000000 Z
@@ -1254,6 +1342,7 @@ tools:
   category: Monitoring
   sub_category: Log Management
   image_url: https://img.stackshare.io/service/1683/preview.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jhipster-5/bookstore-monolith/pom.xml
   detection_source: jhipster-5/bookstore-monolith/pom.xml
   last_updated_by: Michael Pratt
   last_updated_on: 2019-03-19 12:31:54.000000000 Z
@@ -1279,6 +1368,7 @@ tools:
   category: Monitoring
   sub_category: Monitoring Tools
   image_url: https://img.stackshare.io/service/2986/MonitLogo.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/spring-cloud-bus/spring-cloud-config-server/pom.xml
   detection_source: spring-cloud-bus/spring-cloud-config-server/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
@@ -1291,6 +1381,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Headless Browsers
   image_url: https://img.stackshare.io/service/1832/phantomjs.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jhipster/jhipster-microservice/gateway-app/package.json
   detection_source: jhipster/jhipster-microservice/gateway-app/package.json
   last_updated_by: Felipe Reis
   last_updated_on: 2017-05-07 17:00:32.000000000 Z
@@ -1318,6 +1409,7 @@ tools:
   category: Monitoring
   sub_category: Monitoring Tools
   image_url: https://img.stackshare.io/service/2501/default_3cf1b307194b26782be5cb209d30360580ae5b3c.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jhipster-5/bookstore-monolith/pom.xml
   detection_source: jhipster-5/bookstore-monolith/pom.xml
   last_updated_by: amit2103
   last_updated_on: 2019-04-07 18:42:30.000000000 Z
@@ -1343,6 +1435,7 @@ tools:
   category: Monitoring
   sub_category: Log Management
   image_url: https://img.stackshare.io/service/2805/05518ecaa42841e834421e9d6987b04f_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/apache-avro/pom.xml
   detection_source: apache-avro/pom.xml
   last_updated_by: spandey
   last_updated_on: 2018-07-11 08:07:41.000000000 Z
@@ -1355,6 +1448,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/5548/UB74SoK2_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/core-groovy-2/pom.xml
   detection_source: core-groovy-2/pom.xml
   last_updated_by: Anshul Bansal
   last_updated_on: 2019-09-01 12:51:19.000000000 Z
@@ -1366,6 +1460,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/5561/303157.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/guest/webservices/rest-client/rest-client/package.json
   detection_source: guest/webservices/rest-client/rest-client/package.json
   last_updated_by: lor6
   last_updated_on: 2017-06-25 09:58:09.000000000 Z
@@ -1378,6 +1473,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/8900/no-img-open-source.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/apache-tapestry/pom.xml
   detection_source: apache-tapestry/pom.xml
   last_updated_by: amit.pandey
   last_updated_on: 2020-03-15 12:52:24.000000000 Z
@@ -1390,6 +1486,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/cas/cas-server/.travis.yml
   detection_source: cas/cas-server/.travis.yml
   last_updated_by: Seun Matt
   last_updated_on: 2020-03-29 20:36:54.000000000 Z
@@ -1415,6 +1512,7 @@ tools:
   category: Application Hosting
   sub_category: Web Servers
   image_url: https://img.stackshare.io/service/3411/R_inOTNM_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/spring-ejb/spring-ejb-client/pom.xml
   detection_source: spring-ejb/spring-ejb-client/pom.xml
   last_updated_by: Allan Vital
   last_updated_on: 2018-01-07 23:59:53.000000000 Z
@@ -1426,6 +1524,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jhipster/jhipster-microservice/car-app/yarn.lock
   detection_source: jhipster/jhipster-microservice/car-app/yarn.lock
   last_updated_by: Felipe Reis
   last_updated_on: 2017-05-07 17:00:32.000000000 Z
@@ -1438,6 +1537,7 @@ tools:
   category: Monitoring
   sub_category: Monitoring Tools
   image_url: https://img.stackshare.io/service/2494/8leuukuhknbc8fj0eg42_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/spring-cloud/spring-cloud-bootstrap/gateway/pom.xml
   detection_source: spring-cloud/spring-cloud-bootstrap/gateway/pom.xml
   last_updated_by: amit2103
   last_updated_on: 2018-04-26 12:37:47.000000000 Z
@@ -1449,6 +1549,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Open Source Service Discovery
   image_url: https://img.stackshare.io/service/1528/apache-zookeeper.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/apache-curator/pom.xml
   detection_source: apache-curator/pom.xml
   last_updated_by: amit2103
   last_updated_on: 2018-04-26 12:37:47.000000000 Z
@@ -1461,6 +1562,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Microservices Tools
   image_url: https://img.stackshare.io/service/2932/zuul.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jhipster/jhipster-microservice/gateway-app/pom.xml
   detection_source: jhipster/jhipster-microservice/gateway-app/pom.xml
   last_updated_by: Felipe Reis
   last_updated_on: 2017-03-21 11:23:41.000000000 Z
@@ -1486,6 +1588,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/spring-security-modules/spring-security-react/src/main/webapp/WEB-INF/view/react/package.json
   detection_source: spring-security-modules/spring-security-react/src/main/webapp/WEB-INF/view/react/package.json
   last_updated_by: aiet
   last_updated_on: 2018-07-13 14:35:21.000000000 Z
@@ -1498,6 +1601,7 @@ tools:
   category: Application Hosting
   sub_category: Serverless / Task Processing
   image_url: https://img.stackshare.io/service/1909/aws-lambda.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/aws-lambda/pom.xml
   detection_source: aws-lambda/pom.xml
   last_updated_by: markusgulden
   last_updated_on: 2018-06-24 03:03:32.000000000 Z
@@ -1510,6 +1614,7 @@ tools:
   category: Application Hosting
   sub_category: Platform as a Service
   image_url: https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/apache-olingo/olingo2/src/main/resources/application.yml
   detection_source: apache-olingo/olingo2/src/main/resources/application.yml
   last_updated_by: Philippe
   last_updated_on: 2019-04-02 05:12:55.000000000 Z
@@ -1522,6 +1627,7 @@ tools:
   category: Application Utilities
   sub_category: Real-time Data Processing
   image_url: https://img.stackshare.io/service/433/default_6bea44ee4da746fbb7c9070a7ffac9b764d1ed79.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/spring-cloud/spring-cloud-stream/spring-cloud-stream-kinesis/pom.xml
   detection_source: spring-cloud/spring-cloud-stream/spring-cloud-stream-kinesis/pom.xml
   last_updated_by: Laurentiu Delcea
   last_updated_on: 2019-09-20 20:19:35.000000000 Z
@@ -1534,6 +1640,7 @@ tools:
   category: Analytics
   sub_category: Business Intelligence
   image_url: https://img.stackshare.io/service/11236/Group_22__3_.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jackson-modules/jackson-conversions-2/pom.xml
   detection_source: jackson-modules/jackson-conversions-2/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-11-26 10:28:18.000000000 Z
@@ -1544,6 +1651,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/8585/a159037c4838e54e93d9f630a295c396_normal.jpeg
+  detection_source_url: https://github.com/ankurkumarz/tutorials
   detection_source: Repo Metadata
 - name: Alpine Linux
   description: Security-oriented, lightweight Linux distribution based on musl libc
@@ -1554,6 +1662,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Operating Systems
   image_url: https://img.stackshare.io/service/6429/alpine_linux.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/docker/docker-compose.yml
   detection_source: docker/docker-compose.yml
   last_updated_by: andrea-ligios
   last_updated_on: 2019-05-26 18:22:55.000000000 Z
@@ -1565,6 +1674,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Operating Systems
   image_url: https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/gradle/gradle-employee-app/build.gradle
   detection_source: gradle/gradle-employee-app/build.gradle
   last_updated_by: sasam0320
   last_updated_on: 2020-04-25 05:32:20.000000000 Z
@@ -1576,6 +1686,7 @@ tools:
   category: Application Utilities
   sub_category: Search Engines
   image_url: https://img.stackshare.io/service/4483/default_2e67ca5c691a5ecab8b19ffaeb371128b4266409.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/apache-solrj/pom.xml
   detection_source: apache-solrj/pom.xml
   last_updated_by: amit.pandey
   last_updated_on: 2020-03-15 12:52:24.000000000 Z
@@ -1585,6 +1696,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2973/2ugK6PfJ_normal.jpg
+  detection_source_url: https://github.com/ankurkumarz/tutorials
   detection_source: Repo Metadata
 - name: Elasticsearch
   description: Open Source, Distributed, RESTful Search Engine
@@ -1594,6 +1706,7 @@ tools:
   category: Application Utilities
   sub_category: Search as a Service
   image_url: https://img.stackshare.io/service/841/Image_2019-05-20_at_4.58.04_PM.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/persistence-modules/spring-data-elasticsearch/pom.xml
   detection_source: persistence-modules/spring-data-elasticsearch/pom.xml
   last_updated_by: DOHA
   last_updated_on: 2018-07-27 23:27:47.000000000 Z
@@ -1603,6 +1716,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/algorithms-miscellaneous-3/src/main/resources/kmeans/radial.html
   detection_source: algorithms-miscellaneous-3/src/main/resources/kmeans/radial.html
   last_updated_by: Ali Dehghani
   last_updated_on: 2019-08-04 15:59:02.000000000 Z
@@ -1614,6 +1728,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/algorithms-miscellaneous-2/src/main/resources/maze/maze1.txt
   detection_source: algorithms-miscellaneous-2/src/main/resources/maze/maze1.txt
   last_updated_by: deep20jain
   last_updated_on: 2018-02-06 20:07:38.000000000 Z
@@ -1666,6 +1781,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/3519/3wgIDj3j_normal.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/ddd/src/test/resources/com/baeldung/dddhexagonalspring/docker-compose.yml
   detection_source: ddd/src/test/resources/com/baeldung/dddhexagonalspring/docker-compose.yml
   last_updated_by: Sorin Zamfir
   last_updated_on: 2020-02-01 10:47:34.000000000 Z
@@ -1678,6 +1794,7 @@ tools:
   category: Application Utilities
   sub_category: API Tools
   image_url: https://img.stackshare.io/service/4083/JSGv7dnx.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials
   detection_source: Repo Metadata
 - name: Shell
   description: A shell is a text-based terminal, used for manipulating programs and
@@ -1688,6 +1805,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials
   detection_source: Repo Metadata
 - name: TensorFlow
   description: Open Source Software Library for Machine Intelligence
@@ -1698,6 +1816,7 @@ tools:
   category: Application Utilities
   sub_category: Machine Learning Tools
   image_url: https://img.stackshare.io/service/4717/FtFnqC38_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/tensorflow-java/pom.xml
   detection_source: tensorflow-java/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
@@ -1708,12 +1827,14 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/4253/nZXfdUQq_normal.jpg
+  detection_source_url: https://github.com/ankurkumarz/tutorials
   detection_source: Repo Metadata
 - name: husky
   website_url: https://github.com/typicode/husky
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jhipster-5/bookstore-monolith/package.json
   detection_source: jhipster-5/bookstore-monolith/package.json
   last_updated_by: Michael Pratt
   last_updated_on: 2019-03-19 12:31:54.000000000 Z
@@ -1722,6 +1843,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/10577/11071.jpeg
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jhipster-5/bookstore-monolith/package.json
   detection_source: jhipster-5/bookstore-monolith/package.json
   last_updated_by: Michael Pratt
   last_updated_on: 2019-03-19 12:31:54.000000000 Z
@@ -1731,12 +1853,14 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/4959/1__IS8pZzkhvd6kUbSFpSgag.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials
   detection_source: Repo Metadata
 - name: xmlunit
   website_url: https://www.xmlunit.org/
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/9143/no-img-open-source.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/testing-modules/xmlunit-2/pom.xml
   detection_source: testing-modules/xmlunit-2/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
@@ -1771,6 +1895,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/vraptor/pom.xml
   detection_source: vraptor/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
@@ -2143,6 +2268,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jhipster/jhipster-microservice/gateway-app/pom.xml
   detection_source: jhipster/jhipster-microservice/gateway-app/pom.xml
   last_updated_by: amit.pandey
   last_updated_on: 2020-01-15 20:23:26.000000000 Z
@@ -2281,12 +2407,6 @@ tools:
     detected_date: Mar 23
     severity: high
     first_patched: 2.12.6.1
-  - name: Uncontrolled Resource Consumption in FasterXML jackson-databind
-    cve_id: CVE-2022-42004
-    cve_url: https://github.com/advisories/GHSA-rgv9-q543-rqg4
-    detected_date: Oct 5
-    severity: high
-    first_patched: 2.12.7.1
   - name: jackson-databind before 2.9.10.4 vulnerable to unsafe deserialization
     cve_id: CVE-2020-10650
     cve_url: https://github.com/advisories/GHSA-rpr3-cw39-3pxh
@@ -2506,6 +2626,12 @@ tools:
     detected_date: Aug 22
     severity: high
     first_patched: 2.9.9
+  - name: Uncontrolled Resource Consumption in FasterXML jackson-databind
+    cve_id: CVE-2022-42004
+    cve_url: https://github.com/advisories/GHSA-rgv9-q543-rqg4
+    detected_date: Oct 5
+    severity: high
+    first_patched: 2.12.7.1
   - name: Uncontrolled Resource Consumption in Jackson-databind
     cve_id: CVE-2022-42003
     cve_url: https://github.com/advisories/GHSA-jjjh-jjxp-wpff
@@ -2538,6 +2664,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jackson-modules/jackson-conversions-2/pom.xml
   detection_source: jackson-modules/jackson-conversions-2/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-19 11:34:50.000000000 Z
@@ -2562,6 +2689,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jackson-modules/pom.xml
   detection_source: jackson-modules/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-19 11:34:50.000000000 Z
@@ -2573,6 +2701,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jackson-modules/jackson-conversions-2/pom.xml
   detection_source: jackson-modules/jackson-conversions-2/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-19 11:34:50.000000000 Z
@@ -2584,6 +2713,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jackson-modules/jackson/pom.xml
   detection_source: jackson-modules/jackson/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-19 11:34:50.000000000 Z
@@ -2595,6 +2725,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jackson-modules/jackson-conversions/pom.xml
   detection_source: jackson-modules/jackson-conversions/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-19 11:34:50.000000000 Z
@@ -2606,6 +2737,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jhipster/jhipster-microservice/car-app/pom.xml
   detection_source: jhipster/jhipster-microservice/car-app/pom.xml
   last_updated_by: amit2103
   last_updated_on: 2019-04-25 19:09:53.000000000 Z
@@ -2643,6 +2775,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jhipster-5/bookstore-monolith/pom.xml
   detection_source: jhipster-5/bookstore-monolith/pom.xml
   last_updated_by: Donato Rimenti
   last_updated_on: 2020-03-18 10:41:11.000000000 Z
@@ -2654,6 +2787,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jackson-modules/jackson-annotations/pom.xml
   detection_source: jackson-modules/jackson-annotations/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-19 11:34:50.000000000 Z
@@ -2959,6 +3093,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/google-web-toolkit/pom.xml
   detection_source: google-web-toolkit/pom.xml
   last_updated_by: amit.pandey
   last_updated_on: 2020-03-22 01:54:38.000000000 Z
@@ -2969,6 +3104,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/google-web-toolkit/pom.xml
   detection_source: google-web-toolkit/pom.xml
   last_updated_by: amit.pandey
   last_updated_on: 2020-03-22 01:54:38.000000000 Z
@@ -2979,6 +3115,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/google-web-toolkit/pom.xml
   detection_source: google-web-toolkit/pom.xml
   last_updated_by: amit.pandey
   last_updated_on: 2020-03-22 01:54:38.000000000 Z
@@ -3270,6 +3407,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jhipster/jhipster-microservice/car-app/pom.xml
   detection_source: jhipster/jhipster-microservice/car-app/pom.xml
   last_updated_by: amit2103
   last_updated_on: 2019-04-25 19:09:53.000000000 Z
@@ -4802,6 +4940,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jhipster/jhipster-microservice/car-app/pom.xml
   detection_source: jhipster/jhipster-microservice/car-app/pom.xml
   last_updated_by: amit2103
   last_updated_on: 2019-04-25 19:09:53.000000000 Z
@@ -4842,6 +4981,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jhipster/jhipster-microservice/car-app/pom.xml
   detection_source: jhipster/jhipster-microservice/car-app/pom.xml
   last_updated_by: amit2103
   last_updated_on: 2019-04-25 19:09:53.000000000 Z
@@ -4854,6 +4994,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jhipster/jhipster-microservice/car-app/pom.xml
   detection_source: jhipster/jhipster-microservice/car-app/pom.xml
   last_updated_by: amit2103
   last_updated_on: 2019-04-25 19:09:53.000000000 Z
@@ -5015,6 +5156,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/persistence-modules/redis/pom.xml
   detection_source: persistence-modules/redis/pom.xml
   last_updated_by: Eric Goebelbecker
   last_updated_on: 2018-01-14 21:48:42.000000000 Z
@@ -5026,6 +5168,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/metrics/pom.xml
   detection_source: metrics/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
@@ -5037,6 +5180,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jhipster-5/bookstore-monolith/pom.xml
   detection_source: jhipster-5/bookstore-monolith/pom.xml
   last_updated_by: Donato Rimenti
   last_updated_on: 2020-03-18 10:41:11.000000000 Z
@@ -5049,6 +5193,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/libraries-server/pom.xml
   detection_source: libraries-server/pom.xml
   last_updated_by: Anshul Bansal
   last_updated_on: 2020-04-18 18:08:53.000000000 Z
@@ -5060,6 +5205,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/micronaut/pom.xml
   detection_source: micronaut/pom.xml
   last_updated_by: amit.pandey
   last_updated_on: 2020-01-15 20:23:26.000000000 Z
@@ -5071,6 +5217,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/aws-reactive/pom.xml
   detection_source: aws-reactive/pom.xml
   last_updated_by: amit.pandey
   last_updated_on: 2020-03-15 12:52:24.000000000 Z
@@ -5291,6 +5438,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/spring-ejb/spring-ejb-client/pom.xml
   detection_source: spring-ejb/spring-ejb-client/pom.xml
   last_updated_by: Loredana Crusoveanu
   last_updated_on: 2018-06-23 19:47:28.000000000 Z
@@ -5494,6 +5642,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/spring-core/pom.xml
   detection_source: spring-core/pom.xml
   last_updated_by: Sanjay Patel
   last_updated_on: 2018-07-12 07:04:54.000000000 Z
@@ -5542,6 +5691,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/ethereum/pom.xml
   detection_source: ethereum/pom.xml
   last_updated_by: amit.pandey
   last_updated_on: 2020-01-29 19:53:44.000000000 Z
@@ -5590,6 +5740,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/ethereum/pom.xml
   detection_source: ethereum/pom.xml
   last_updated_by: amit.pandey
   last_updated_on: 2020-01-29 19:53:44.000000000 Z
@@ -5626,6 +5777,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/apache-bval/pom.xml
   detection_source: apache-bval/pom.xml
   last_updated_by: amit.pandey
   last_updated_on: 2020-03-15 12:52:24.000000000 Z
@@ -5893,6 +6045,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/image-processing/pom.xml
   detection_source: image-processing/pom.xml
   last_updated_by: Anshul BANSAL
   last_updated_on: 2020-03-08 15:58:00.000000000 Z
@@ -5996,6 +6149,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/apache-fop/pom.xml
   detection_source: apache-fop/pom.xml
   last_updated_by: amit2103
   last_updated_on: 2018-04-26 12:37:47.000000000 Z
@@ -6179,6 +6333,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/spring-boot-modules/spring-boot/pom.xml
   detection_source: spring-boot-modules/spring-boot/pom.xml
   last_updated_by: sampada
   last_updated_on: 2020-02-11 05:09:59.000000000 Z
@@ -6255,24 +6410,25 @@ tools:
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
   vulnerabilities:
-  - name: XML External Entity injection in Apache Camel
-    cve_id: CVE-2019-0188
-    cve_url: https://github.com/advisories/GHSA-h896-mx9x-g32g
+  - name: Apache Camel's Validation Component is vulnerable against SSRF via remote
+      DTDs and XXE.
+    cve_id: CVE-2017-5643
+    cve_url: https://github.com/advisories/GHSA-vq9j-jh62-5hmp
     detected_date: Aug 22
     severity: high
-    first_patched: 2.24.0
+    first_patched: 2.18.2
   - name: Improper Input Validation in Apache Camel
     cve_id: CVE-2020-11971
     cve_url: https://github.com/advisories/GHSA-hfg5-xpvw-c9x4
     detected_date: Apr 15
     severity: high
     first_patched: 3.2.0
-  - name: Apache Camel using an outdated vulnerable JSON-lib library
-    cve_id: CVE-2017-5643
-    cve_url: https://github.com/advisories/GHSA-vq9j-jh62-5hmp
+  - name: XML External Entity injection in Apache Camel
+    cve_id: CVE-2019-0188
+    cve_url: https://github.com/advisories/GHSA-h896-mx9x-g32g
     detected_date: Aug 22
     severity: high
-    first_patched: 2.18.2
+    first_patched: 2.24.0
 - name: org.apache.camel:camel-spring
   description: Camel Spring with XML DSL
   version: 2.18.1
@@ -6294,6 +6450,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/persistence-modules/apache-cayenne/pom.xml
   detection_source: persistence-modules/apache-cayenne/pom.xml
   last_updated_by: amit2103
   last_updated_on: 2018-04-26 12:37:47.000000000 Z
@@ -6496,6 +6653,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/apache-cxf/cxf-aegis/pom.xml
   detection_source: apache-cxf/cxf-aegis/pom.xml
   last_updated_by: amit.pandey
   last_updated_on: 2020-03-15 12:52:24.000000000 Z
@@ -6507,6 +6665,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/apache-cxf/cxf-jaxrs-implementation/pom.xml
   detection_source: apache-cxf/cxf-jaxrs-implementation/pom.xml
   last_updated_by: amit.pandey
   last_updated_on: 2020-03-15 12:52:24.000000000 Z
@@ -6518,6 +6677,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/apache-cxf/cxf-introduction/pom.xml
   detection_source: apache-cxf/cxf-introduction/pom.xml
   last_updated_by: amit.pandey
   last_updated_on: 2020-03-15 12:52:24.000000000 Z
@@ -6542,6 +6702,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/apache-cxf/cxf-introduction/pom.xml
   detection_source: apache-cxf/cxf-introduction/pom.xml
   last_updated_by: amit.pandey
   last_updated_on: 2020-03-15 12:52:24.000000000 Z
@@ -6553,6 +6714,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/persistence-modules/deltaspike/pom.xml
   detection_source: persistence-modules/deltaspike/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
@@ -6563,6 +6725,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/persistence-modules/deltaspike/pom.xml
   detection_source: persistence-modules/deltaspike/pom.xml
   last_updated_by: Dhawal Kapil
   last_updated_on: 2020-01-26 19:10:23.000000000 Z
@@ -6573,6 +6736,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/persistence-modules/deltaspike/pom.xml
   detection_source: persistence-modules/deltaspike/pom.xml
   last_updated_by: Dhawal Kapil
   last_updated_on: 2020-01-26 19:10:23.000000000 Z
@@ -7456,25 +7620,6 @@ tools:
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
   vulnerabilities:
-  - name: Expression Language Injection in Apache Struts
-    cve_id: CVE-2021-31805
-    cve_url: https://github.com/advisories/GHSA-v8j6-6c2r-r27c
-    detected_date: Apr 27
-    severity: critical
-    first_patched: 2.5.30
-  - name: Apache Struts 2.0.1 uses an unintentional expression in a Freemarker tag
-      instead of string literal
-    cve_id: CVE-2017-12611
-    cve_url: https://github.com/advisories/GHSA-8fx9-5hx8-crhm
-    detected_date: Aug 22
-    severity: critical
-    first_patched: 2.5.12
-  - name: Remote code execution in Apache Struts
-    cve_id: CVE-2020-17530
-    cve_url: https://github.com/advisories/GHSA-jc35-q369-45pv
-    detected_date: Feb 10
-    severity: critical
-    first_patched: 2.5.26
   - name: Apache Struts vulnerable to remote arbitrary command execution due to improper
       input validation
     cve_id: CVE-2017-5638
@@ -7482,6 +7627,24 @@ tools:
     detected_date: Aug 22
     severity: critical
     first_patched: 2.5.10.1
+  - name: Apache Struts vulnerable to path traversal
+    cve_id: CVE-2023-50164
+    cve_url: https://github.com/advisories/GHSA-2j39-qcjm-428w
+    detected_date: Dec 8
+    severity: critical
+    first_patched: 2.5.33
+  - name: Remote code execution in Apache Struts
+    cve_id: CVE-2020-17530
+    cve_url: https://github.com/advisories/GHSA-jc35-q369-45pv
+    detected_date: Feb 10
+    severity: critical
+    first_patched: 2.5.26
+  - name: Expression Language Injection in Apache Struts
+    cve_id: CVE-2021-31805
+    cve_url: https://github.com/advisories/GHSA-v8j6-6c2r-r27c
+    detected_date: Apr 27
+    severity: critical
+    first_patched: 2.5.30
   - name: Improperly Controlled Modification of Dynamically-Determined Object Attributes
       in Apache Struts
     cve_id: CVE-2019-0230
@@ -7489,12 +7652,13 @@ tools:
     detected_date: Jan 18
     severity: critical
     first_patched: 2.5.22
-  - name: Apache Struts vulnerable to path traversal
-    cve_id: CVE-2023-50164
-    cve_url: https://github.com/advisories/GHSA-2j39-qcjm-428w
-    detected_date: Dec 8
+  - name: Apache Struts 2.0.1 uses an unintentional expression in a Freemarker tag
+      instead of string literal
+    cve_id: CVE-2017-12611
+    cve_url: https://github.com/advisories/GHSA-8fx9-5hx8-crhm
+    detected_date: Aug 22
     severity: critical
-    first_patched: 2.5.33
+    first_patched: 2.5.11
   - name: Spring AOP functionality (Struts) vulnerable to DoS attack
     cve_id: CVE-2017-9787
     cve_url: https://github.com/advisories/GHSA-8mr5-h28g-36qx
@@ -7539,30 +7703,30 @@ tools:
     detected_date: Jun 15
     severity: high
     first_patched: 2.5.31
-  - name: Possible DoS attack when using URLValidator
+  - name: Apache Struts vulnerable to possible DoS attack when using URLValidator
     cve_id: CVE-2016-4465
     cve_url: https://github.com/advisories/GHSA-xg75-68x3-7p3q
     detected_date: Nov 4
     severity: moderate
     first_patched: 2.5.13
-  - name: Possible DoS attack when using URLValidator
+  - name: Apache Struts vulnerable to possible DoS attack when using URLValidator
     cve_id: CVE-2016-8738
     cve_url: https://github.com/advisories/GHSA-86vq-8qhc-5rqw
     detected_date: Nov 4
     severity: moderate
     first_patched: 2.5.13
-  - name: Moderate severity vulnerability that affects org.apache.struts:struts2-core
-    cve_id: CVE-2017-7672
-    cve_url: https://github.com/advisories/GHSA-9gp7-jvm2-r4mx
-    detected_date: Aug 22
-    severity: moderate
-    first_patched: 2.5.12
   - name: Apache Struts vulnerable to memory exhaustion
     cve_id: CVE-2023-34149
     cve_url: https://github.com/advisories/GHSA-8f6x-v685-g2xc
     detected_date: Jun 15
     severity: moderate
     first_patched: 2.5.31
+  - name: Apache Struts Improper Input Validation vulnerability
+    cve_id: CVE-2017-7672
+    cve_url: https://github.com/advisories/GHSA-9gp7-jvm2-r4mx
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 2.5.12
 - name: org.apache.struts:struts2-junit-plugin
   version: 2.5.5
   license: Apache-2.0
@@ -7677,28 +7841,28 @@ tools:
   last_updated_by: amit.pandey
   last_updated_on: 2020-03-15 12:52:24.000000000 Z
   vulnerabilities:
-  - name: Apache Tika is vulnerable to entity expansions which can lead to a denial
-      of service attack
-    cve_id: CVE-2018-11796
-    cve_url: https://github.com/advisories/GHSA-h8q5-g2cj-qr5h
-    detected_date: Aug 22
-    severity: high
-    first_patched: 1.19.1
-  - name: Allocation of Resources Without Limits or Throttling in Apache Tika
-    cve_id: CVE-2019-10094
-    cve_url: https://github.com/advisories/GHSA-mm7m-xg4h-6m52
-    detected_date: Aug 22
-    severity: high
-    first_patched: '1.22'
   - name: Allocation of Resources Without Limits or Throttling in Apache Tika
     cve_id: CVE-2019-10088
     cve_url: https://github.com/advisories/GHSA-mfwh-gqx8-c787
     detected_date: Aug 22
     severity: high
     first_patched: '1.22'
+  - name: Allocation of Resources Without Limits or Throttling in Apache Tika
+    cve_id: CVE-2019-10094
+    cve_url: https://github.com/advisories/GHSA-mm7m-xg4h-6m52
+    detected_date: Aug 22
+    severity: high
+    first_patched: '1.22'
   - name: High severity vulnerability that affects org.apache.tika:tika-core
     cve_id: CVE-2018-11761
     cve_url: https://github.com/advisories/GHSA-6jq2-789q-fff2
+    detected_date: Aug 22
+    severity: high
+    first_patched: 1.19.1
+  - name: Apache Tika is vulnerable to entity expansions which can lead to a denial
+      of service attack
+    cve_id: CVE-2018-11796
+    cve_url: https://github.com/advisories/GHSA-h8q5-g2cj-qr5h
     detected_date: Aug 22
     severity: high
     first_patched: 1.19.1
@@ -7775,6 +7939,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/spring-4/pom.xml
   detection_source: spring-4/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
@@ -8250,6 +8415,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/spring-dispatcher-servlet/pom.xml
   detection_source: spring-dispatcher-servlet/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
@@ -8494,6 +8660,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/drools/pom.xml
   detection_source: drools/pom.xml
   last_updated_by: Dhawal Kapil
   last_updated_on: 2018-11-30 16:46:08.000000000 Z
@@ -8505,6 +8672,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/drools/pom.xml
   detection_source: drools/pom.xml
   last_updated_by: Dhawal Kapil
   last_updated_on: 2018-11-30 16:46:08.000000000 Z
@@ -8517,6 +8685,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/drools/pom.xml
   detection_source: drools/pom.xml
   last_updated_by: Dhawal Kapil
   last_updated_on: 2018-11-30 16:46:08.000000000 Z
@@ -8580,6 +8749,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/wicket/pom.xml
   detection_source: wicket/pom.xml
   last_updated_by: Sanjay Patel
   last_updated_on: 2018-07-12 07:04:54.000000000 Z
@@ -8591,6 +8761,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/testing-modules/rest-assured/pom.xml
   detection_source: testing-modules/rest-assured/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
@@ -8602,6 +8773,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/testing-modules/rest-assured/pom.xml
   detection_source: testing-modules/rest-assured/pom.xml
   last_updated_by: Trevor Gowing
   last_updated_on: 2019-03-25 13:29:04.000000000 Z
@@ -8613,6 +8785,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/testing-modules/rest-assured/pom.xml
   detection_source: testing-modules/rest-assured/pom.xml
   last_updated_by: Trevor Gowing
   last_updated_on: 2019-03-25 13:29:04.000000000 Z
@@ -8624,6 +8797,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/libraries-server/pom.xml
   detection_source: libraries-server/pom.xml
   last_updated_by: Anshul Bansal
   last_updated_on: 2020-04-18 18:08:53.000000000 Z
@@ -8635,6 +8809,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/libraries-server/pom.xml
   detection_source: libraries-server/pom.xml
   last_updated_by: Anshul Bansal
   last_updated_on: 2020-04-18 18:08:53.000000000 Z
@@ -8646,6 +8821,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/testing-modules/rest-assured/pom.xml
   detection_source: testing-modules/rest-assured/pom.xml
   last_updated_by: Trevor Gowing
   last_updated_on: 2019-03-25 13:29:04.000000000 Z
@@ -8657,6 +8833,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/testing-modules/rest-assured/pom.xml
   detection_source: testing-modules/rest-assured/pom.xml
   last_updated_by: Trevor Gowing
   last_updated_on: 2019-03-25 13:29:04.000000000 Z
@@ -8668,6 +8845,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/libraries-server/pom.xml
   detection_source: libraries-server/pom.xml
   last_updated_by: Anshul Bansal
   last_updated_on: 2020-04-18 18:08:53.000000000 Z
@@ -8757,6 +8935,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jhipster/jhipster-monolithic/pom.xml
   detection_source: jhipster/jhipster-monolithic/pom.xml
   last_updated_by: Sanjay Patel
   last_updated_on: 2018-07-12 07:04:54.000000000 Z
@@ -9103,6 +9282,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/grails/build.gradle
   detection_source: grails/build.gradle
   last_updated_by: Mariusz Kuligowski
   last_updated_on: 2018-03-10 22:19:25.000000000 Z
@@ -9181,6 +9361,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/lombok/pom.xml
   detection_source: lombok/pom.xml
   last_updated_by: Roger
   last_updated_on: 2019-11-10 16:10:34.000000000 Z
@@ -9192,6 +9373,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/atomikos/pom.xml
   detection_source: atomikos/pom.xml
   last_updated_by: Kumar Chandrakant
   last_updated_on: 2020-04-12 04:36:34.000000000 Z
@@ -9203,6 +9385,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/core-java-modules/core-java-optional/pom.xml
   detection_source: core-java-modules/core-java-optional/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-11-26 10:01:07.000000000 Z
@@ -9215,6 +9398,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/persistence-modules/spring-data-jpa/pom.xml
   detection_source: persistence-modules/spring-data-jpa/pom.xml
   last_updated_by: Dhawal Kapil
   last_updated_on: 2020-01-26 19:10:23.000000000 Z
@@ -9226,6 +9410,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/atomikos/pom.xml
   detection_source: atomikos/pom.xml
   last_updated_by: Kumar Chandrakant
   last_updated_on: 2020-04-12 04:36:34.000000000 Z
@@ -9237,6 +9422,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jhipster-5/bookstore-monolith/pom.xml
   detection_source: jhipster-5/bookstore-monolith/pom.xml
   last_updated_by: Donato Rimenti
   last_updated_on: 2020-03-18 10:41:11.000000000 Z
@@ -9248,6 +9434,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jhipster/pom.xml
   detection_source: jhipster/pom.xml
   last_updated_by: Dhawal Kapil
   last_updated_on: 2019-03-09 17:24:08.000000000 Z
@@ -9260,6 +9447,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jhipster/jhipster-monolithic/pom.xml
   detection_source: jhipster/jhipster-monolithic/pom.xml
   last_updated_by: Sanjay Patel
   last_updated_on: 2018-07-12 07:04:54.000000000 Z
@@ -9271,6 +9459,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jhipster-5/bookstore-monolith/pom.xml
   detection_source: jhipster-5/bookstore-monolith/pom.xml
   last_updated_by: amit2103
   last_updated_on: 2019-04-07 18:42:30.000000000 Z
@@ -9282,6 +9471,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/persistence-modules/hibernate-annotations/pom.xml
   detection_source: persistence-modules/hibernate-annotations/pom.xml
   last_updated_by: sampadawagde
   last_updated_on: 2020-03-15 07:18:26.000000000 Z
@@ -9293,6 +9483,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/javaxval/pom.xml
   detection_source: javaxval/pom.xml
   last_updated_by: Dhawal Kapil
   last_updated_on: 2019-11-23 15:01:40.000000000 Z
@@ -9304,6 +9495,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/persistence-modules/deltaspike/pom.xml
   detection_source: persistence-modules/deltaspike/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
@@ -9315,6 +9507,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/spring-cloud/spring-cloud-gateway/pom.xml
   detection_source: spring-cloud/spring-cloud-gateway/pom.xml
   last_updated_by: psevestre
   last_updated_on: 2020-01-21 16:05:53.000000000 Z
@@ -9399,6 +9592,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/libraries-data-2/pom.xml
   detection_source: libraries-data-2/pom.xml
   last_updated_by: Donato Rimenti
   last_updated_on: 2020-04-24 14:51:50.000000000 Z
@@ -9502,6 +9696,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jee-7/pom.xml
   detection_source: jee-7/pom.xml
   last_updated_by: Sampada
   last_updated_on: 2020-04-22 14:51:36.000000000 Z
@@ -9513,6 +9708,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jee-7/pom.xml
   detection_source: jee-7/pom.xml
   last_updated_by: Sampada
   last_updated_on: 2020-04-22 14:51:36.000000000 Z
@@ -9525,6 +9721,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/persistence-modules/deltaspike/pom.xml
   detection_source: persistence-modules/deltaspike/pom.xml
   last_updated_by: Sanjay Patel
   last_updated_on: 2018-07-12 07:04:54.000000000 Z
@@ -9536,6 +9733,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/logging-modules/log-mdc/pom.xml
   detection_source: logging-modules/log-mdc/pom.xml
   last_updated_by: Sanjay Patel
   last_updated_on: 2018-07-12 07:04:54.000000000 Z
@@ -9547,6 +9745,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jee-7/pom.xml
   detection_source: jee-7/pom.xml
   last_updated_by: Sampada
   last_updated_on: 2020-04-22 14:51:36.000000000 Z
@@ -9558,6 +9757,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/persistence-modules/hibernate-ogm/pom.xml
   detection_source: persistence-modules/hibernate-ogm/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
@@ -9569,6 +9769,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/persistence-modules/deltaspike/pom.xml
   detection_source: persistence-modules/deltaspike/pom.xml
   last_updated_by: Sanjay Patel
   last_updated_on: 2018-07-12 07:04:54.000000000 Z
@@ -9580,6 +9781,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/resteasy/pom.xml
   detection_source: resteasy/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
@@ -9591,6 +9793,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/resteasy/pom.xml
   detection_source: resteasy/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
@@ -9602,6 +9805,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/resteasy/pom.xml
   detection_source: resteasy/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
@@ -9613,6 +9817,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/resteasy/pom.xml
   detection_source: resteasy/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
@@ -9638,6 +9843,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jee-7/pom.xml
   detection_source: jee-7/pom.xml
   last_updated_by: Sampada
   last_updated_on: 2020-04-22 14:51:36.000000000 Z
@@ -9650,6 +9856,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jee-7/pom.xml
   detection_source: jee-7/pom.xml
   last_updated_by: Sampada
   last_updated_on: 2020-04-22 14:51:36.000000000 Z
@@ -9661,6 +9868,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/persistence-modules/deltaspike/pom.xml
   detection_source: persistence-modules/deltaspike/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
@@ -9672,6 +9880,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jee-7/pom.xml
   detection_source: jee-7/pom.xml
   last_updated_by: Sampada
   last_updated_on: 2020-04-22 14:51:36.000000000 Z
@@ -9683,6 +9892,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jee-7/pom.xml
   detection_source: jee-7/pom.xml
   last_updated_by: Sampada
   last_updated_on: 2020-04-22 14:51:36.000000000 Z
@@ -9694,6 +9904,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/cdi/pom.xml
   detection_source: cdi/pom.xml
   last_updated_by: Alejandro Gervasio
   last_updated_on: 2018-11-24 21:02:25.000000000 Z
@@ -9705,6 +9916,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/vraptor/pom.xml
   detection_source: vraptor/pom.xml
   last_updated_by: amit2103
   last_updated_on: 2019-05-05 19:04:04.000000000 Z
@@ -9716,6 +9928,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jee-7/pom.xml
   detection_source: jee-7/pom.xml
   last_updated_by: Sampada
   last_updated_on: 2020-04-22 14:51:36.000000000 Z
@@ -9727,6 +9940,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/vraptor/pom.xml
   detection_source: vraptor/pom.xml
   last_updated_by: Sanjay Patel
   last_updated_on: 2018-07-12 07:04:54.000000000 Z
@@ -9738,6 +9952,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/persistence-modules/deltaspike/pom.xml
   detection_source: persistence-modules/deltaspike/pom.xml
   last_updated_by: Sanjay Patel
   last_updated_on: 2018-07-12 07:04:54.000000000 Z
@@ -9838,6 +10053,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/kotlin-js/build.gradle
   detection_source: kotlin-js/build.gradle
   last_updated_by: Syed Mansoor
   last_updated_on: 2018-05-18 06:04:31.000000000 Z
@@ -9862,6 +10078,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/kotlin-js/build.gradle
   detection_source: kotlin-js/build.gradle
   last_updated_by: Syed Mansoor
   last_updated_on: 2018-05-18 06:04:31.000000000 Z
@@ -9962,6 +10179,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jgroups/pom.xml
   detection_source: jgroups/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
@@ -10025,6 +10243,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/spring-jooq/pom.xml
   detection_source: spring-jooq/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
@@ -10036,6 +10255,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/json/pom.xml
   detection_source: json/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
@@ -10753,6 +10973,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/osgi/osgi-intro-sample-activator/pom.xml
   detection_source: osgi/osgi-intro-sample-activator/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
@@ -11088,6 +11309,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/spring-boot-modules/spring-boot-runtime/disabling-console-jul/pom.xml
   detection_source: spring-boot-modules/spring-boot-runtime/disabling-console-jul/pom.xml
   last_updated_by: rozagerardo
   last_updated_on: 2018-09-05 03:18:03.000000000 Z
@@ -11099,6 +11321,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/core-java-modules/core-java-io-2/pom.xml
   detection_source: core-java-modules/core-java-io-2/pom.xml
   last_updated_by: Tapan Avasthi
   last_updated_on: 2019-09-02 23:05:09.000000000 Z
@@ -11123,6 +11346,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/guest/slf4j/guide/slf4j-logback/pom.xml
   detection_source: guest/slf4j/guide/slf4j-logback/pom.xml
   last_updated_by: Dhawal Kapil
   last_updated_on: 2018-11-30 16:46:08.000000000 Z
@@ -11134,6 +11358,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/spring-jersey/pom.xml
   detection_source: spring-jersey/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
@@ -11199,6 +11424,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/spring-batch/pom.xml
   detection_source: spring-batch/pom.xml
   last_updated_by: Alessio Stalla
   last_updated_on: 2019-10-27 23:01:49.000000000 Z
@@ -11210,6 +11436,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/spring-boot-modules/spring-boot-custom-starter/greeter-spring-boot-autoconfigure/pom.xml
   detection_source: spring-boot-modules/spring-boot-custom-starter/greeter-spring-boot-autoconfigure/pom.xml
   last_updated_by: sampadawagde
   last_updated_on: 2020-04-27 06:04:36.000000000 Z
@@ -11221,6 +11448,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jhipster/jhipster-microservice/car-app/pom.xml
   detection_source: jhipster/jhipster-microservice/car-app/pom.xml
   last_updated_by: amit2103
   last_updated_on: 2019-04-25 19:09:53.000000000 Z
@@ -11232,6 +11460,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/axon/pom.xml
   detection_source: axon/pom.xml
   last_updated_by: Steven van Beelen
   last_updated_on: 2018-12-31 12:45:58.000000000 Z
@@ -11243,6 +11472,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/apache-olingo/olingo2/pom.xml
   detection_source: apache-olingo/olingo2/pom.xml
   last_updated_by: amit.pandey
   last_updated_on: 2020-03-15 12:52:24.000000000 Z
@@ -11254,6 +11484,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/persistence-modules/spring-data-eclipselink/pom.xml
   detection_source: persistence-modules/spring-data-eclipselink/pom.xml
   last_updated_by: amit2103
   last_updated_on: 2018-04-26 12:37:47.000000000 Z
@@ -11265,6 +11496,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/aws-reactive/pom.xml
   detection_source: aws-reactive/pom.xml
   last_updated_by: amit.pandey
   last_updated_on: 2020-03-22 01:54:38.000000000 Z
@@ -11276,6 +11508,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jhipster-5/bookstore-monolith/pom.xml
   detection_source: jhipster-5/bookstore-monolith/pom.xml
   last_updated_by: amit2103
   last_updated_on: 2019-04-07 18:42:30.000000000 Z
@@ -11287,6 +11520,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/ethereum/pom.xml
   detection_source: ethereum/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
@@ -11299,6 +11533,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/grails/build.gradle
   detection_source: grails/build.gradle
   last_updated_by: Mariusz Kuligowski
   last_updated_on: 2018-03-10 22:19:25.000000000 Z
@@ -11310,6 +11545,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/hystrix/pom.xml
   detection_source: hystrix/pom.xml
   last_updated_by: sampadawagde
   last_updated_on: 2020-04-17 07:07:42.000000000 Z
@@ -11321,6 +11557,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/apache-olingo/olingo2/pom.xml
   detection_source: apache-olingo/olingo2/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
@@ -11333,6 +11570,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/ddd/pom.xml
   detection_source: ddd/pom.xml
   last_updated_by: amit.pandey
   last_updated_on: 2020-03-22 01:54:38.000000000 Z
@@ -11345,6 +11583,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/persistence-modules/redis/pom.xml
   detection_source: persistence-modules/redis/pom.xml
   last_updated_by: aitorcuesta
   last_updated_on: 2020-05-03 20:25:39.000000000 Z
@@ -11356,6 +11595,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/guest/spring-security/pom.xml
   detection_source: guest/spring-security/pom.xml
   last_updated_by: amit2103
   last_updated_on: 2018-04-26 06:50:35.000000000 Z
@@ -11367,6 +11607,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/spring-rest-compress/pom.xml
   detection_source: spring-rest-compress/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
@@ -11378,6 +11619,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/guest/slf4j/guide/slf4j-log4j2/pom.xml
   detection_source: guest/slf4j/guide/slf4j-log4j2/pom.xml
   last_updated_by: Dhawal Kapil
   last_updated_on: 2018-11-30 16:46:08.000000000 Z
@@ -11389,6 +11631,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/grails/build.gradle
   detection_source: grails/build.gradle
   last_updated_by: Mariusz Kuligowski
   last_updated_on: 2018-03-10 22:19:25.000000000 Z
@@ -11400,6 +11643,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jhipster-5/bookstore-monolith/pom.xml
   detection_source: jhipster-5/bookstore-monolith/pom.xml
   last_updated_by: Donato Rimenti
   last_updated_on: 2020-03-18 10:41:11.000000000 Z
@@ -11411,6 +11655,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/cas/cas-secured-app/pom.xml
   detection_source: cas/cas-secured-app/pom.xml
   last_updated_by: Seun Matt
   last_updated_on: 2020-03-29 20:36:54.000000000 Z
@@ -11423,6 +11668,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/apache-olingo/olingo2/pom.xml
   detection_source: apache-olingo/olingo2/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
@@ -11434,6 +11680,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/guest/spring-mvc/pom.xml
   detection_source: guest/spring-mvc/pom.xml
   last_updated_by: Sergey Petunin
   last_updated_on: 2017-10-20 06:28:05.000000000 Z
@@ -11445,6 +11692,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/azure/pom.xml
   detection_source: azure/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
@@ -11456,6 +11704,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/persistence-modules/spring-boot-persistence-h2/pom.xml
   detection_source: persistence-modules/spring-boot-persistence-h2/pom.xml
   last_updated_by: petershatunov
   last_updated_on: 2020-03-18 21:00:37.000000000 Z
@@ -11468,6 +11717,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/apache-shiro/pom.xml
   detection_source: apache-shiro/pom.xml
   last_updated_by: sampadawagde
   last_updated_on: 2020-05-06 12:44:05.000000000 Z
@@ -11480,6 +11730,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/spring-websockets/pom.xml
   detection_source: spring-websockets/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-24 14:35:22.000000000 Z
@@ -11491,6 +11742,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jhipster-5/bookstore-monolith/pom.xml
   detection_source: jhipster-5/bookstore-monolith/pom.xml
   last_updated_by: amit2103
   last_updated_on: 2019-04-07 18:42:30.000000000 Z
@@ -11502,6 +11754,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/spring-cloud-bus/spring-cloud-config-server/pom.xml
   detection_source: spring-cloud-bus/spring-cloud-config-server/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
@@ -11513,6 +11766,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/spring-boot-modules/spring-boot-artifacts/pom.xml
   detection_source: spring-boot-modules/spring-boot-artifacts/pom.xml
   last_updated_by: amit2103
   last_updated_on: 2019-10-06 06:57:05.000000000 Z
@@ -11524,6 +11778,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jhipster/jhipster-microservice/car-app/pom.xml
   detection_source: jhipster/jhipster-microservice/car-app/pom.xml
   last_updated_by: amit2103
   last_updated_on: 2019-04-25 19:09:53.000000000 Z
@@ -11535,6 +11790,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/spring-cloud-bus/spring-cloud-config-client/pom.xml
   detection_source: spring-cloud-bus/spring-cloud-config-client/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
@@ -11546,6 +11802,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jhipster/jhipster-microservice/car-app/pom.xml
   detection_source: jhipster/jhipster-microservice/car-app/pom.xml
   last_updated_by: amit2103
   last_updated_on: 2019-04-25 19:09:53.000000000 Z
@@ -11557,6 +11814,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jhipster/jhipster-microservice/car-app/pom.xml
   detection_source: jhipster/jhipster-microservice/car-app/pom.xml
   last_updated_by: amit2103
   last_updated_on: 2019-04-25 19:09:53.000000000 Z
@@ -11568,6 +11826,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/spring-rest-angular/pom.xml
   detection_source: spring-rest-angular/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
@@ -11579,6 +11838,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/atomikos/pom.xml
   detection_source: atomikos/pom.xml
   last_updated_by: Kumar Chandrakant
   last_updated_on: 2020-04-12 04:36:34.000000000 Z
@@ -11590,6 +11850,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/persistence-modules/spring-data-mongodb/pom.xml
   detection_source: persistence-modules/spring-data-mongodb/pom.xml
   last_updated_by: Erik Pragt
   last_updated_on: 2019-07-08 21:23:20.000000000 Z
@@ -11601,6 +11862,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/persistence-modules/spring-data-neo4j/pom.xml
   detection_source: persistence-modules/spring-data-neo4j/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
@@ -11612,6 +11874,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/spring-integration/pom.xml
   detection_source: spring-integration/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
@@ -11623,6 +11886,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/spring-integration/pom.xml
   detection_source: spring-integration/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
@@ -11634,6 +11898,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/spring-integration/pom.xml
   detection_source: spring-integration/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
@@ -11645,6 +11910,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/spring-kafka/pom.xml
   detection_source: spring-kafka/pom.xml
   last_updated_by: Erik Pragt
   last_updated_on: 2019-07-09 11:18:29.000000000 Z
@@ -11656,6 +11922,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/spring-ldap/pom.xml
   detection_source: spring-ldap/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
@@ -11667,6 +11934,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jhipster/jhipster-microservice/car-app/pom.xml
   detection_source: jhipster/jhipster-microservice/car-app/pom.xml
   last_updated_by: amit2103
   last_updated_on: 2019-04-25 19:09:53.000000000 Z
@@ -11678,6 +11946,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jhipster/jhipster-uaa/gateway/pom.xml
   detection_source: jhipster/jhipster-uaa/gateway/pom.xml
   last_updated_by: amit.pandey
   last_updated_on: 2020-04-19 12:39:24.000000000 Z
@@ -11689,6 +11958,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/spring-security-modules/spring-security-acl/pom.xml
   detection_source: spring-security-modules/spring-security-acl/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
@@ -11700,6 +11970,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/cas/cas-secured-app/pom.xml
   detection_source: cas/cas-secured-app/pom.xml
   last_updated_by: Seun Matt
   last_updated_on: 2020-03-29 20:36:54.000000000 Z
@@ -11711,6 +11982,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/httpclient-simple/pom.xml
   detection_source: httpclient-simple/pom.xml
   last_updated_by: Gerardo Roza
   last_updated_on: 2019-08-10 00:10:20.000000000 Z
@@ -11722,6 +11994,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/persistence-modules/spring-hibernate4/pom.xml
   detection_source: persistence-modules/spring-hibernate4/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
@@ -11734,6 +12007,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jhipster/jhipster-uaa/gateway/pom.xml
   detection_source: jhipster/jhipster-uaa/gateway/pom.xml
   last_updated_by: amit.pandey
   last_updated_on: 2020-04-19 12:39:24.000000000 Z
@@ -11745,6 +12019,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/spring-security-modules/spring-security-ldap/pom.xml
   detection_source: spring-security-modules/spring-security-ldap/pom.xml
   last_updated_by: Krzysiek
   last_updated_on: 2020-03-29 21:54:31.000000000 Z
@@ -11756,6 +12031,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jee-7-security/pom.xml
   detection_source: jee-7-security/pom.xml
   last_updated_by: Dhawal Kapil
   last_updated_on: 2018-10-10 14:13:24.000000000 Z
@@ -11767,6 +12043,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/cas/cas-secured-app/pom.xml
   detection_source: cas/cas-secured-app/pom.xml
   last_updated_by: Seun Matt
   last_updated_on: 2020-03-29 20:36:54.000000000 Z
@@ -11778,6 +12055,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/httpclient-simple/pom.xml
   detection_source: httpclient-simple/pom.xml
   last_updated_by: Gerardo Roza
   last_updated_on: 2019-08-10 00:10:20.000000000 Z
@@ -11789,6 +12067,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/spring-cloud/spring-cloud-bootstrap/discovery/pom.xml
   detection_source: spring-cloud/spring-cloud-bootstrap/discovery/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
@@ -11800,6 +12079,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/spring-shell/pom.xml
   detection_source: spring-shell/pom.xml
   last_updated_by: Dhawal Kapil
   last_updated_on: 2019-10-10 04:40:26.000000000 Z
@@ -11812,6 +12092,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/spring-integration/pom.xml
   detection_source: spring-integration/pom.xml
   last_updated_by: enpy303
   last_updated_on: 2019-09-18 06:27:59.000000000 Z
@@ -11823,6 +12104,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/spring-state-machine/pom.xml
   detection_source: spring-state-machine/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
@@ -11834,6 +12116,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/spring-mvc-webflow/pom.xml
   detection_source: spring-mvc-webflow/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
@@ -11845,6 +12128,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/httpclient-simple/pom.xml
   detection_source: httpclient-simple/pom.xml
   last_updated_by: Gerardo Roza
   last_updated_on: 2019-08-10 00:10:20.000000000 Z
@@ -11856,6 +12140,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/persistence-modules/spring-hibernate-5/pom.xml
   detection_source: persistence-modules/spring-hibernate-5/pom.xml
   last_updated_by: amit2103
   last_updated_on: 2019-08-18 12:05:53.000000000 Z
@@ -11867,6 +12152,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/httpclient-simple/pom.xml
   detection_source: httpclient-simple/pom.xml
   last_updated_by: Gerardo Roza
   last_updated_on: 2019-08-10 00:10:20.000000000 Z
@@ -11878,6 +12164,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/apache-cxf/cxf-spring/pom.xml
   detection_source: apache-cxf/cxf-spring/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
@@ -11889,6 +12176,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/couchbase/pom.xml
   detection_source: couchbase/pom.xml
   last_updated_by: amit2103
   last_updated_on: 2018-04-26 12:37:47.000000000 Z
@@ -11900,6 +12188,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/core-java-modules/core-java-jndi/pom.xml
   detection_source: core-java-modules/core-java-jndi/pom.xml
   last_updated_by: mikr
   last_updated_on: 2020-01-22 07:48:27.000000000 Z
@@ -11911,6 +12200,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/httpclient-simple/pom.xml
   detection_source: httpclient-simple/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
@@ -11922,6 +12212,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/core-java-modules/core-java-jndi/pom.xml
   detection_source: core-java-modules/core-java-jndi/pom.xml
   last_updated_by: mikr
   last_updated_on: 2020-01-22 07:48:27.000000000 Z
@@ -11933,6 +12224,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/spring-ejb/ejb-beans/pom.xml
   detection_source: spring-ejb/ejb-beans/pom.xml
   last_updated_by: Sampada
   last_updated_on: 2020-02-18 21:42:50.000000000 Z
@@ -11944,6 +12236,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/spring-boot-modules/spring-boot-client/pom.xml
   detection_source: spring-boot-modules/spring-boot-client/pom.xml
   last_updated_by: amit2103
   last_updated_on: 2019-02-09 20:17:19.000000000 Z
@@ -11955,6 +12248,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/persistence-modules/querydsl/pom.xml
   detection_source: persistence-modules/querydsl/pom.xml
   last_updated_by: amit2103
   last_updated_on: 2018-04-26 06:50:35.000000000 Z
@@ -11966,6 +12260,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/httpclient-simple/pom.xml
   detection_source: httpclient-simple/pom.xml
   last_updated_by: Gerardo Roza
   last_updated_on: 2019-08-10 00:10:20.000000000 Z
@@ -11977,6 +12272,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/atomikos/pom.xml
   detection_source: atomikos/pom.xml
   last_updated_by: Kumar Chandrakant
   last_updated_on: 2020-04-12 04:36:34.000000000 Z
@@ -11988,6 +12284,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/atomikos/pom.xml
   detection_source: atomikos/pom.xml
   last_updated_by: Kumar Chandrakant
   last_updated_on: 2020-04-12 04:36:34.000000000 Z
@@ -11999,6 +12296,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/core-java-modules/core-java-networking/pom.xml
   detection_source: core-java-modules/core-java-networking/pom.xml
   last_updated_by: amit2103
   last_updated_on: 2018-12-29 16:24:59.000000000 Z
@@ -12010,6 +12308,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/apache-cxf/cxf-spring/pom.xml
   detection_source: apache-cxf/cxf-spring/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
@@ -12021,6 +12320,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/spring-boot-modules/spring-boot-client/pom.xml
   detection_source: spring-boot-modules/spring-boot-client/pom.xml
   last_updated_by: amit2103
   last_updated_on: 2018-08-26 09:40:16.000000000 Z
@@ -12098,6 +12398,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/spring-mvc-basics-2/pom.xml
   detection_source: spring-mvc-basics-2/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-16 16:35:04.000000000 Z
@@ -12109,6 +12410,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/spring-mvc-basics-2/pom.xml
   detection_source: spring-mvc-basics-2/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-16 16:35:04.000000000 Z
@@ -12121,6 +12423,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/guest/spring-security/pom.xml
   detection_source: guest/spring-security/pom.xml
   last_updated_by: amit2103
   last_updated_on: 2018-04-26 06:50:35.000000000 Z
@@ -12236,6 +12539,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/spring-roo/pom.xml
   detection_source: spring-roo/pom.xml
   last_updated_by: catalin-burcea
   last_updated_on: 2019-12-05 14:56:52.000000000 Z
@@ -12373,6 +12677,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/persistence-modules/redis/pom.xml
   detection_source: persistence-modules/redis/pom.xml
   last_updated_by: aitorcuesta
   last_updated_on: 2020-05-03 20:25:39.000000000 Z
@@ -12397,6 +12702,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/aws-reactive/pom.xml
   detection_source: aws-reactive/pom.xml
   last_updated_by: amit.pandey
   last_updated_on: 2020-03-22 01:54:38.000000000 Z
@@ -12419,6 +12725,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/spring-soap/pom.xml
   detection_source: spring-soap/pom.xml
   last_updated_by: Sampada
   last_updated_on: 2020-04-25 16:44:35.000000000 Z
@@ -13456,6 +13763,20 @@ tools:
   detection_source: jhipster-5/bookstore-monolith/package.json
   last_updated_by: Michael Pratt
   last_updated_on: 2019-03-19 12:31:54.000000000 Z
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  version: 1.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jhipster/jhipster-uaa/gateway/package-lock.json
+  detection_source: jhipster-5/bookstore-monolith/package.json
+  last_updated_by: Michael Pratt
+  last_updated_on: 2019-03-19 12:31:54.000000000 Z
 - name: image-webpack-loader
   description: Image loader module for webpack
   package_url: https://www.npmjs.com/image-webpack-loader
@@ -13709,6 +14030,20 @@ tools:
   detection_source: jhipster/jhipster-microservice/gateway-app/package.json
   last_updated_by: Felipe Reis
   last_updated_on: 2017-05-07 17:00:32.000000000 Z
+- name: lint-staged
+  description: Lint files staged by git
+  package_url: https://www.npmjs.com/lint-staged
+  version: 7.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15868/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/ankurkumarz/tutorials/blob/master/jhipster/jhipster-uaa/gateway/package-lock.json
+  detection_source: jhipster-5/bookstore-monolith/package.json
+  last_updated_by: Michael Pratt
+  last_updated_on: 2019-03-19 12:31:54.000000000 Z
 - name: lite-server
   description: Lightweight development node server for serving a web app
   package_url: https://www.npmjs.com/lite-server
