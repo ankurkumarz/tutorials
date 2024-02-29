@@ -3,143 +3,143 @@
 ## Tech Stack
 ankurkumarz/tutorials is built on the following main stack:
 
-- [Compose](https://www.compose.io/) – MongoDB Hosting
-- [Jenkins](http://jenkins-ci.org/) – Continuous Integration
-- [Google Cloud Storage](https://cloud.google.com/products/cloud-storage/) – Cloud Storage
-- [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
-- [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
-- [Elasticsearch](https://www.elastic.co/products/elasticsearch) – Search as a Service
-- [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
-- [Gradle](https://www.gradle.org/) – Java Build Tools
-- [Ruby](https://www.ruby-lang.org) – Languages
-- [Python](https://www.python.org) – Languages
-- [Java](https://www.java.com) – Languages
-- [Groovy](https://groovy-lang.org/) – Languages
-- [Clojure](http://clojure.org/) – Languages
-- [Golang](http://golang.org/) – Languages
-- [Android SDK](http://developer.android.com) – Frameworks (Full Stack)
-- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- [Scala](http://www.scala-lang.org/) – Languages
-- [React](https://reactjs.org/) – Javascript UI Libraries
-- [jQuery](http://jquery.com/) – Javascript UI Libraries
-- [MySQL](http://www.mysql.com) – Databases
-- [Oracle](http://www.oracle.com/us/products/database/overview/index.html) – Databases
-- [PostgreSQL](http://www.postgresql.org/) – Databases
-- [MongoDB](http://www.mongodb.com/) – Databases
-- [Redis](http://redis.io/) – In-Memory Databases
-- [Cassandra](http://cassandra.apache.org/) – Databases
-- [HBase](http://hbase.apache.org/) – Databases
-- [Hadoop](http://hadoop.apache.org/) – Databases
-- [Perl](http://www.perl.org/) – Languages
-- [C++](http://www.cplusplus.com/) – Languages
-- [RabbitMQ](http://www.rabbitmq.com/) – Message Queue
-- [ActiveMQ](http://activemq.apache.org/) – Message Queue
-- [Kafka](http://kafka.apache.org/) – Message Queue
-- [SQLite](http://www.sqlite.org/) – Databases
-- [Jetty](http://www.eclipse.org/jetty/) – Web Servers
-- [Couchbase](http://www.couchbase.com/) – Databases
-- [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
-- [Mustache](http://mustache.github.io/) – Templating Languages & Extensions
-- [Handlebars.js](http://handlebarsjs.com/) – Templating Languages & Extensions
-- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
-- [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [R Language](http://www.r-project.org/) – Languages
-- [Liquibase](https://www.liquibase.com) – Database Tools
-- [Karma](http://karma-runner.github.io/) – Browser Testing
-- [Eclipse](https://www.eclipse.org/) – Integrated Development Environment
-- [Neo4j](http://www.neo4j.com/) – Graph Databases
-- [Zookeeper](http://zookeeper.apache.org/) – Open Source Service Discovery
-- [OrientDB](https://orientdb.com) – Databases
-- [TypeScript](http://www.typescriptlang.org) – Languages
-- [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
-- [Logstash](http://logstash.net/) – Log Management
-- [Protractor](http://angular.github.io/protractor) – Javascript Testing Framework
-- [Hibernate](http://hibernate.org/) – Object Relational Mapper (ORM)
-- [Hystrix](https://github.com/Netflix/Hystrix) – Fault Tolerance Tools
-- [Akka](http://akka.io/) – Concurrency Frameworks
-- [RxJS](http://reactivex.io/rxjs/) – Concurrency Frameworks
-- [ceph](http://ceph.com/) – Languages
-- [PhantomJS](https://phantomjs.org/) – Headless Browsers
-- [AWS Lambda](http://aws.amazon.com/lambda) – Serverless / Task Processing
-- [Spring Framework](https://spring.io/projects/spring-framework) – Frameworks (Full Stack)
-- [JUnit](http://junit.org/) – Testing Frameworks
-- [Mockito](https://site.mockito.org/) – Testing Frameworks
-- [Hazelcast](http://hazelcast.org/) – In-Memory Databases
-- [NATS](https://nats.io) – Realtime Backend / API
-- [Jackson](https://github.com/FasterXML/jackson) – Java Tools
-- [JBoss](https://developers.redhat.com/products/eap) – Web Servers
-- [RxJava](https://github.com/ReactiveX/RxJava) – Java Tools
-- [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
-- [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
-- [jOOQ](http://www.jooq.org) – Database Tools
-- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
-- [Modernizr](https://modernizr.com/) – Javascript Utilities & Libraries
-- [Gherkin](https://cucumber.io/docs/gherkin/reference/) – Languages
-- [Zipkin](https://zipkin.io/) – Monitoring Tools
-- [Prometheus](http://prometheus.io/) – Monitoring Tools
-- [Cucumber](https://cukes.info/) – Testing Frameworks
-- [FindBugs](http://findbugs.sourceforge.net/) – Code Review
-- [Babel](http://babeljs.io/) – JavaScript Compilers
-- [Log4j](https://logging.apache.org/log4j/2.x/) – Logging Tools
-- [SLF4J](http://slf4j.org/) – Log Management
-- [Logback](https://logback.qos.ch/) – Log Management
 - [Asciidoctor](https://asciidoctor.org) – Languages
-- [Spring Boot](https://spring.io/projects/spring-boot) – Frameworks (Full Stack)
-- [Zuul](https://github.com/Netflix/zuul) – Microservices Tools
-- [guava](https://github.com/google/guava) – Java Tools
-- [Vaadin](http://vaadin.com) – Frameworks (Full Stack)
-- [Monit](https://mmonit.com) – Monitoring Tools
-- [Ehcache](http://ehcache.org/) – Cache
-- [H2 Database](http://www.h2database.com/) – Databases
-- [Apache Camel](https://camel.apache.org/) – Platform as a Service
-- [Netty](http://netty.io/) – Concurrency Frameworks
-- [ESLint](http://eslint.org/) – Code Review
-- [Wildfly](https://www.wildfly.org/) – Web Servers
-- [GlassFish](https://glassfish.java.net) – Web Servers
-- [Moment.js](http://momentjs.com/) – Javascript Utilities & Libraries
-- [MQTT](http://mqtt.org/) – Message Queue
-- [Smarty](http://www.smarty.net/) – Templating Languages & Extensions
-- [Angular](https://angular.io) – Javascript MVC Frameworks
-- [Kotlin](https://kotlinlang.org/) – Languages
-- [QueryDSL](http://www.querydsl.com/) – Java Tools
-- [RAML](http://raml.org/) – API Tools
-- [Avro](https://avro.apache.org/) – Serialization Frameworks
-- [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
-- [Apache FreeMarker](http://freemarker.incubator.apache.org/index.html) – Java Tools
-- [Apache Solr](http://lucene.apache.org/solr/) – Search Engines
+- [C++](http://www.cplusplus.com/) – Languages
+- [Clojure](http://clojure.org/) – Languages
+- [Gherkin](https://cucumber.io/docs/gherkin/reference/) – Languages
+- [Golang](http://golang.org/) – Languages
+- [Groovy](https://groovy-lang.org/) – Languages
+- [Handlebars.js](http://handlebarsjs.com/) – Templating Languages & Extensions
+- [Java](https://www.java.com) – Languages
 - [Java EE](http://www.oracle.com/technetwork/java/javaee/overview/index.html) – Languages
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- [TensorFlow](https://www.tensorflow.org) – Machine Learning Tools
-- [Spring Cloud](https://spring.io/projects/spring-cloud) – Frameworks (Full Stack)
-- [Spock Framework](http://spockframework.org/) – Testing Frameworks
-- [TSLint](https://github.com/palantir/tslint) – Code Review
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [Kotlin](https://kotlinlang.org/) – Languages
+- [Mustache](http://mustache.github.io/) – Templating Languages & Extensions
+- [Perl](http://www.perl.org/) – Languages
+- [Python](https://www.python.org) – Languages
+- [R Language](http://www.r-project.org/) – Languages
+- [Ruby](https://www.ruby-lang.org) – Languages
+- [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
+- [Scala](http://www.scala-lang.org/) – Languages
+- [Smarty](http://www.smarty.net/) – Templating Languages & Extensions
+- [TypeScript](http://www.typescriptlang.org) – Languages
+- [ceph](http://ceph.com/) – Languages
+- [Akka](http://akka.io/) – Concurrency Frameworks
+- [Android SDK](http://developer.android.com) – Frameworks (Full Stack)
+- [Angular](https://angular.io) – Javascript MVC Frameworks
 - [Apache Dubbo](http://dubbo.apache.org/en-us/) – Remote Procedure Call (RPC)
-- [MyBatis](http://www.mybatis.org/mybatis-3/) – Object Relational Mapper (ORM)
-- [Project Reactor](https://projectreactor.io/) – Java Tools
-- [Yarn](https://yarnpkg.com/) – Front End Package Manager
-- [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
+- [Apache FreeMarker](http://freemarker.incubator.apache.org/index.html) – Java Tools
+- [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
+- [Avro](https://avro.apache.org/) – Serialization Frameworks
 - [Axon](https://axoniq.io/product-overview/axon-framework) – Frameworks (Full Stack)
-- [MapD](https://www.mapd.com/) – Databases
-- [HSQLDB](http://hsqldb.org) – Databases
-- [Prettier](https://prettier.io/) – Code Review
-- [Apache Derby](https://db.apache.org/derby/index.html) – Databases
-- [Spring Data](https://spring.io/projects/spring-data) – Database Tools
-- [GraphiQL](https://github.com/graphql/graphiql) – Database Tools
+- [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
+- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
+- [Jackson](https://github.com/FasterXML/jackson) – Java Tools
+- [Netty](http://netty.io/) – Concurrency Frameworks
+- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- [Project Reactor](https://projectreactor.io/) – Java Tools
+- [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
+- [QueryDSL](http://www.querydsl.com/) – Java Tools
+- [React](https://reactjs.org/) – Javascript UI Libraries
+- [RxJS](http://reactivex.io/rxjs/) – Concurrency Frameworks
+- [RxJava](https://github.com/ReactiveX/RxJava) – Java Tools
+- [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
+- [Spring Boot](https://spring.io/projects/spring-boot) – Frameworks (Full Stack)
+- [Spring Cloud](https://spring.io/projects/spring-cloud) – Frameworks (Full Stack)
+- [Spring Framework](https://spring.io/projects/spring-framework) – Frameworks (Full Stack)
+- [Vaadin](http://vaadin.com) – Frameworks (Full Stack)
 - [css-loader](https://github.com/webpack-contrib/css-loader) – CSS Pre-processors / Extensions
-- [migra](https://migra.djrobstep.com/) – Database Tools
-- [TestNG](http://testng.org/doc/) – Testing Frameworks
+- [guava](https://github.com/google/guava) – Java Tools
+- [jQuery](http://jquery.com/) – Javascript UI Libraries
+- [ActiveMQ](http://activemq.apache.org/) – Message Queue
+- [Apache Derby](https://db.apache.org/derby/index.html) – Databases
+- [Cassandra](http://cassandra.apache.org/) – Databases
+- [Compose](https://www.compose.io/) – MongoDB Hosting
+- [Couchbase](http://www.couchbase.com/) – Databases
+- [DB](https://github.com/infostreams/db) – Database Tools
+- [Ehcache](http://ehcache.org/) – Cache
+- [Google Cloud Storage](https://cloud.google.com/products/cloud-storage/) – Cloud Storage
+- [GraphiQL](https://github.com/graphql/graphiql) – Database Tools
+- [H2 Database](http://www.h2database.com/) – Databases
+- [HBase](http://hbase.apache.org/) – Databases
+- [HSQLDB](http://hsqldb.org) – Databases
+- [Hadoop](http://hadoop.apache.org/) – Databases
+- [Hazelcast](http://hazelcast.org/) – In-Memory Databases
+- [Hibernate](http://hibernate.org/) – Object Relational Mapper (ORM)
+- [Kafka](http://kafka.apache.org/) – Message Queue
 - [Kafka REST](https://github.com/confluentinc/kafka-rest) – Kafka Tools
 - [Kafka Streams](https://kafka.apache.org/documentation/streams/) – Stream Processing
-- [Android OS](https://www.android.com) – Operating Systems
-- [Lando](https://docs.devwithlando.io/) – Container Tools
-- [Dataform](https://dataform.co/) – Business Intelligence
-- [DB](https://github.com/infostreams/db) – Database Tools
-- [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
+- [Liquibase](https://www.liquibase.com) – Database Tools
+- [MQTT](http://mqtt.org/) – Message Queue
+- [MapD](https://www.mapd.com/) – Databases
+- [MongoDB](http://www.mongodb.com/) – Databases
+- [MyBatis](http://www.mybatis.org/mybatis-3/) – Object Relational Mapper (ORM)
+- [MySQL](http://www.mysql.com) – Databases
+- [NATS](https://nats.io) – Realtime Backend / API
+- [Neo4j](http://www.neo4j.com/) – Graph Databases
+- [Oracle](http://www.oracle.com/us/products/database/overview/index.html) – Databases
+- [OrientDB](https://orientdb.com) – Databases
+- [PostgreSQL](http://www.postgresql.org/) – Databases
+- [RabbitMQ](http://www.rabbitmq.com/) – Message Queue
+- [Redis](http://redis.io/) – In-Memory Databases
+- [SQLite](http://www.sqlite.org/) – Databases
+- [Spring Data](https://spring.io/projects/spring-data) – Database Tools
+- [jOOQ](http://www.jooq.org) – Database Tools
+- [migra](https://migra.djrobstep.com/) – Database Tools
 - [pgvector](https://github.com/pgvector/pgvector/) – Database Tools
+- [Babel](http://babeljs.io/) – JavaScript Compilers
+- [Cucumber](https://cukes.info/) – Testing Frameworks
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [ESLint](http://eslint.org/) – Code Review
+- [Eclipse](https://www.eclipse.org/) – Integrated Development Environment
+- [FindBugs](http://findbugs.sourceforge.net/) – Code Review
+- [GlassFish](https://glassfish.java.net) – Web Servers
+- [Gradle](https://www.gradle.org/) – Java Build Tools
+- [Hystrix](https://github.com/Netflix/Hystrix) – Fault Tolerance Tools
+- [JBoss](https://developers.redhat.com/products/eap) – Web Servers
+- [JUnit](http://junit.org/) – Testing Frameworks
+- [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
+- [Jenkins](http://jenkins-ci.org/) – Continuous Integration
+- [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
+- [Jetty](http://www.eclipse.org/jetty/) – Web Servers
+- [Karma](http://karma-runner.github.io/) – Browser Testing
+- [Lando](https://docs.devwithlando.io/) – Container Tools
+- [Log4j](https://logging.apache.org/log4j/2.x/) – Logging Tools
+- [Logback](https://logback.qos.ch/) – Log Management
+- [Logstash](http://logstash.net/) – Log Management
+- [Mockito](https://site.mockito.org/) – Testing Frameworks
+- [Monit](https://mmonit.com) – Monitoring Tools
+- [PhantomJS](https://phantomjs.org/) – Headless Browsers
+- [Prettier](https://prettier.io/) – Code Review
+- [Prometheus](http://prometheus.io/) – Monitoring Tools
+- [Protractor](http://angular.github.io/protractor) – Javascript Testing Framework
+- [SLF4J](http://slf4j.org/) – Log Management
+- [Spock Framework](http://spockframework.org/) – Testing Frameworks
+- [TSLint](https://github.com/palantir/tslint) – Code Review
+- [TestNG](http://testng.org/doc/) – Testing Frameworks
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
+- [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
+- [Wildfly](https://www.wildfly.org/) – Web Servers
+- [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- [Zipkin](https://zipkin.io/) – Monitoring Tools
+- [Zookeeper](http://zookeeper.apache.org/) – Open Source Service Discovery
+- [Zuul](https://github.com/Netflix/zuul) – Microservices Tools
+- [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
+- [AWS Lambda](http://aws.amazon.com/lambda) – Serverless / Task Processing
+- [Apache Camel](https://camel.apache.org/) – Platform as a Service
 - [Amazon Kinesis](http://aws.amazon.com/kinesis/) – Real-time Data Processing
+- [Dataform](https://dataform.co/) – Business Intelligence
+- [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
+- [Android OS](https://www.android.com) – Operating Systems
+- [Apache Solr](http://lucene.apache.org/solr/) – Search Engines
+- [Elasticsearch](https://www.elastic.co/products/elasticsearch) – Search as a Service
+- [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
+- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- [Modernizr](https://modernizr.com/) – Javascript Utilities & Libraries
+- [Moment.js](http://momentjs.com/) – Javascript Utilities & Libraries
+- [RAML](http://raml.org/) – API Tools
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- [TensorFlow](https://www.tensorflow.org) – Machine Learning Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -149,143 +149,143 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 ankurkumarz/tutorials is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/201/reB72Lh4.png' alt='Compose'/> [Compose](https://www.compose.io/) – MongoDB Hosting
-- <img width='25' height='25' src='https://img.stackshare.io/service/670/jenkins.png' alt='Jenkins'/> [Jenkins](http://jenkins-ci.org/) – Continuous Integration
-- <img width='25' height='25' src='https://img.stackshare.io/service/694/Cloud_Storage.png' alt='Google Cloud Storage'/> [Google Cloud Storage](https://cloud.google.com/products/cloud-storage/) – Cloud Storage
-- <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png' alt='Jasmine'/> [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/841/Image_2019-05-20_at_4.58.04_PM.png' alt='Elasticsearch'/> [Elasticsearch](https://www.elastic.co/products/elasticsearch) – Search as a Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/844/iruTC031.png' alt='gulp'/> [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/975/gradlephant-social-black-bg.png' alt='Gradle'/> [Gradle](https://www.gradle.org/) – Java Build Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/997/default_7ff5fcd857f42ad25149f659693d8930bffddf14.png' alt='Groovy'/> [Groovy](https://groovy-lang.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1003/Clojure_300x300.png' alt='Clojure'/> [Clojure](http://clojure.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1005/O6AczwfV_400x400.png' alt='Golang'/> [Golang](http://golang.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png' alt='Android SDK'/> [Android SDK](http://developer.android.com) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1012/scala.png' alt='Scala'/> [Scala](http://www.scala-lang.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg' alt='jQuery'/> [jQuery](http://jquery.com/) – Javascript UI Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/1025/logo-mysql-170x170.png' alt='MySQL'/> [MySQL](http://www.mysql.com) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1026/jT-HJYJg.png' alt='Oracle'/> [Oracle](http://www.oracle.com/us/products/database/overview/index.html) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1028/ASOhU5xJ.png' alt='PostgreSQL'/> [PostgreSQL](http://www.postgresql.org/) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1030/leaf-360x360.png' alt='MongoDB'/> [MongoDB](http://www.mongodb.com/) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png' alt='Redis'/> [Redis](http://redis.io/) – In-Memory Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1032/cassandra_small.png' alt='Cassandra'/> [Cassandra](http://cassandra.apache.org/) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1043/HBase-Twitter3.png' alt='HBase'/> [HBase](http://hbase.apache.org/) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1044/elephant_rgb_sq.png' alt='Hadoop'/> [Hadoop](http://hadoop.apache.org/) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1048/perl.png' alt='Perl'/> [Perl](http://www.perl.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1049/cplusplus.png' alt='C++'/> [C++](http://www.cplusplus.com/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1061/default_df93e9a30d27519161b39d8c1d5c223c1642d187.jpg' alt='RabbitMQ'/> [RabbitMQ](http://www.rabbitmq.com/) – Message Queue
-- <img width='25' height='25' src='https://img.stackshare.io/service/1062/default_08edb6f82e2c79424efc1e297ab096e50acd8e0b.jpg' alt='ActiveMQ'/> [ActiveMQ](http://activemq.apache.org/) – Message Queue
-- <img width='25' height='25' src='https://img.stackshare.io/service/1063/kazUJooF_400x400.jpg' alt='Kafka'/> [Kafka](http://kafka.apache.org/) – Message Queue
-- <img width='25' height='25' src='https://img.stackshare.io/service/1071/sqlite.jpg' alt='SQLite'/> [SQLite](http://www.sqlite.org/) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1084/default_392a491b5c8bff92ffa39468611ad8f9c0ff1939.png' alt='Jetty'/> [Jetty](http://www.eclipse.org/jetty/) – Web Servers
-- <img width='25' height='25' src='https://img.stackshare.io/service/1089/KMIbGY8C.png' alt='Couchbase'/> [Couchbase](http://www.couchbase.com/) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1101/C9QJ7V3X.png' alt='Bootstrap'/> [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/1142/197655.png' alt='Mustache'/> [Mustache](http://mustache.github.io/) – Templating Languages & Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/1143/Handlebars.png' alt='Handlebars.js'/> [Handlebars.js](http://handlebarsjs.com/) – Templating Languages & Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1171/jCR2zNJV.png' alt='Sass'/> [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1213/r-logo.png' alt='R Language'/> [R Language](http://www.r-project.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1398/y1As8_s5_400x400.jpg' alt='Liquibase'/> [Liquibase](https://www.liquibase.com) – Database Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/1420/TidYGd6a.png' alt='Karma'/> [Karma](http://karma-runner.github.io/) – Browser Testing
-- <img width='25' height='25' src='https://img.stackshare.io/service/1446/8cyY6D_m.png' alt='Eclipse'/> [Eclipse](https://www.eclipse.org/) – Integrated Development Environment
-- <img width='25' height='25' src='https://img.stackshare.io/service/1482/FbkjM42a.png' alt='Neo4j'/> [Neo4j](http://www.neo4j.com/) – Graph Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1528/apache-zookeeper.png' alt='Zookeeper'/> [Zookeeper](http://zookeeper.apache.org/) – Open Source Service Discovery
-- <img width='25' height='25' src='https://img.stackshare.io/service/1611/6bEpwjZ5_400x400.png' alt='OrientDB'/> [OrientDB](https://orientdb.com) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/1683/preview.png' alt='Logstash'/> [Logstash](http://logstash.net/) – Log Management
-- <img width='25' height='25' src='https://img.stackshare.io/service/1754/protractor-logo1.png' alt='Protractor'/> [Protractor](http://angular.github.io/protractor) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/1756/1uNl_IZX.png' alt='Hibernate'/> [Hibernate](http://hibernate.org/) – Object Relational Mapper (ORM)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1758/cde558e9b4a1f07ff99f90d637c38388.png' alt='Hystrix'/> [Hystrix](https://github.com/Netflix/Hystrix) – Fault Tolerance Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/1773/bxLhidly.png' alt='Akka'/> [Akka](http://akka.io/) – Concurrency Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/1796/984368.png' alt='RxJS'/> [RxJS](http://reactivex.io/rxjs/) – Concurrency Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/1818/cephglyph_copy_400x400.png' alt='ceph'/> [ceph](http://ceph.com/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1832/phantomjs.png' alt='PhantomJS'/> [PhantomJS](https://phantomjs.org/) – Headless Browsers
-- <img width='25' height='25' src='https://img.stackshare.io/service/1909/aws-lambda.png' alt='AWS Lambda'/> [AWS Lambda](http://aws.amazon.com/lambda) – Serverless / Task Processing
-- <img width='25' height='25' src='https://img.stackshare.io/service/2006/spring-framework-project-logo.png' alt='Spring Framework'/> [Spring Framework](https://spring.io/projects/spring-framework) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/2020/874086.png' alt='JUnit'/> [JUnit](http://junit.org/) – Testing Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/2021/4y634TJm_400x400.jpg' alt='Mockito'/> [Mockito](https://site.mockito.org/) – Testing Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/2024/default_000f7e56d4be68acfa58a6ea8bd40e65a10e04ff.jpg' alt='Hazelcast'/> [Hazelcast](http://hazelcast.org/) – In-Memory Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/2066/nats-icon-color.png' alt='NATS'/> [NATS](https://nats.io) – Realtime Backend / API
-- <img width='25' height='25' src='https://ucarecdn.com/d8ec839d-4d66-4c08-8297-9e2be82f6b75/' alt='Jackson'/> [Jackson](https://github.com/FasterXML/jackson) – Java Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/2188/unnamed.jpg' alt='JBoss'/> [JBoss](https://developers.redhat.com/products/eap) – Web Servers
-- <img width='25' height='25' src='https://img.stackshare.io/service/2190/6407041.png' alt='RxJava'/> [RxJava](https://github.com/ReactiveX/RxJava) – Java Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png' alt='Autoprefixer'/> [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png' alt='SQL'/> [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/2279/jooq-logo-white-750x750-padded.png' alt='jOOQ'/> [jOOQ](http://www.jooq.org) – Database Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/2440/9TeXWBzR_400x400.jpg' alt='Modernizr'/> [Modernizr](https://modernizr.com/) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/2460/default_aff27c02548fadb1b7e6f85a2b0da1c5dca5cc08.png' alt='Gherkin'/> [Gherkin](https://cucumber.io/docs/gherkin/reference/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/2494/8leuukuhknbc8fj0eg42_400x400.png' alt='Zipkin'/> [Zipkin](https://zipkin.io/) – Monitoring Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/2501/default_3cf1b307194b26782be5cb209d30360580ae5b3c.png' alt='Prometheus'/> [Prometheus](http://prometheus.io/) – Monitoring Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/2544/jasVAxyJ.png' alt='Cucumber'/> [Cucumber](https://cukes.info/) – Testing Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/2662/kWjFjx3K_400x400.jpg' alt='FindBugs'/> [FindBugs](http://findbugs.sourceforge.net/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
-- <img width='25' height='25' src='https://img.stackshare.io/service/2804/Coralogix-log4j-integration.jpg' alt='Log4j'/> [Log4j](https://logging.apache.org/log4j/2.x/) – Logging Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/2805/05518ecaa42841e834421e9d6987b04f_400x400.png' alt='SLF4J'/> [SLF4J](http://slf4j.org/) – Log Management
-- <img width='25' height='25' src='https://img.stackshare.io/service/2923/05518ecaa42841e834421e9d6987b04f_400x400.png' alt='Logback'/> [Logback](https://logback.qos.ch/) – Log Management
 - <img width='25' height='25' src='https://img.stackshare.io/service/2924/gvQpykZd_400x400.jpg' alt='Asciidoctor'/> [Asciidoctor](https://asciidoctor.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/2927/nPzvMuo2_400x400.png' alt='Spring Boot'/> [Spring Boot](https://spring.io/projects/spring-boot) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/2932/zuul.png' alt='Zuul'/> [Zuul](https://github.com/Netflix/zuul) – Microservices Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/2970/wBjKn0ol.png' alt='guava'/> [guava](https://github.com/google/guava) – Java Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/2971/UuHV6j99_400x400.jpg' alt='Vaadin'/> [Vaadin](http://vaadin.com) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/2986/MonitLogo.png' alt='Monit'/> [Monit](https://mmonit.com) – Monitoring Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/3093/EhcacheTwitterIcon.png' alt='Ehcache'/> [Ehcache](http://ehcache.org/) – Cache
-- <img width='25' height='25' src='https://img.stackshare.io/service/3105/h2-logo_square_400x400.png' alt='H2 Database'/> [H2 Database](http://www.h2database.com/) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg' alt='Apache Camel'/> [Apache Camel](https://camel.apache.org/) – Platform as a Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/3278/netty_icon_256px.png' alt='Netty'/> [Netty](http://netty.io/) – Concurrency Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/3411/R_inOTNM_400x400.png' alt='Wildfly'/> [Wildfly](https://www.wildfly.org/) – Web Servers
-- <img width='25' height='25' src='https://img.stackshare.io/service/3628/515GX-Cc_400x400.jpg' alt='GlassFish'/> [GlassFish](https://glassfish.java.net) – Web Servers
-- <img width='25' height='25' src='https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png' alt='Moment.js'/> [Moment.js](http://momentjs.com/) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/3670/mqtticon-large_400x400.png' alt='MQTT'/> [MQTT](http://mqtt.org/) – Message Queue
-- <img width='25' height='25' src='https://img.stackshare.io/service/3693/smarty.png' alt='Smarty'/> [Smarty](http://www.smarty.net/) – Templating Languages & Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/3745/cb8U-gL6_400x400.jpg' alt='Angular'/> [Angular](https://angular.io) – Javascript MVC Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/3750/pCfEzr6L.png' alt='Kotlin'/> [Kotlin](https://kotlinlang.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/3881/da8da0c0e6dfbfc596f787ade49381a6_400x400.png' alt='QueryDSL'/> [QueryDSL](http://www.querydsl.com/) – Java Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/4083/JSGv7dnx.png' alt='RAML'/> [RAML](http://raml.org/) – API Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/4265/avro.png' alt='Avro'/> [Avro](https://avro.apache.org/) – Serialization Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png' alt='Protobuf'/> [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/4456/ymCgaIO0_400x400.jpg' alt='Apache FreeMarker'/> [Apache FreeMarker](http://freemarker.incubator.apache.org/index.html) – Java Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/4483/default_2e67ca5c691a5ecab8b19ffaeb371128b4266409.png' alt='Apache Solr'/> [Apache Solr](http://lucene.apache.org/solr/) – Search Engines
+- <img width='25' height='25' src='https://img.stackshare.io/service/1049/cplusplus.png' alt='C++'/> [C++](http://www.cplusplus.com/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1003/Clojure_300x300.png' alt='Clojure'/> [Clojure](http://clojure.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/2460/default_aff27c02548fadb1b7e6f85a2b0da1c5dca5cc08.png' alt='Gherkin'/> [Gherkin](https://cucumber.io/docs/gherkin/reference/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1005/O6AczwfV_400x400.png' alt='Golang'/> [Golang](http://golang.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/997/default_7ff5fcd857f42ad25149f659693d8930bffddf14.png' alt='Groovy'/> [Groovy](https://groovy-lang.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1143/Handlebars.png' alt='Handlebars.js'/> [Handlebars.js](http://handlebarsjs.com/) – Templating Languages & Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/4522/652rxwyK_400x400.png' alt='Java EE'/> [Java EE](http://www.oracle.com/technetwork/java/javaee/overview/index.html) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/4717/FtFnqC38_400x400.png' alt='TensorFlow'/> [TensorFlow](https://www.tensorflow.org) – Machine Learning Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/5494/default_b403ef08976083aea6d4caf5a4f19f3325c751e5.png' alt='Spring Cloud'/> [Spring Cloud](https://spring.io/projects/spring-cloud) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/5548/UB74SoK2_400x400.png' alt='Spock Framework'/> [Spock Framework](http://spockframework.org/) – Testing Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/5561/303157.png' alt='TSLint'/> [TSLint](https://github.com/palantir/tslint) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/3750/pCfEzr6L.png' alt='Kotlin'/> [Kotlin](https://kotlinlang.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1142/197655.png' alt='Mustache'/> [Mustache](http://mustache.github.io/) – Templating Languages & Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/1048/perl.png' alt='Perl'/> [Perl](http://www.perl.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1213/r-logo.png' alt='R Language'/> [R Language](http://www.r-project.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png' alt='SQL'/> [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1012/scala.png' alt='Scala'/> [Scala](http://www.scala-lang.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/3693/smarty.png' alt='Smarty'/> [Smarty](http://www.smarty.net/) – Templating Languages & Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1818/cephglyph_copy_400x400.png' alt='ceph'/> [ceph](http://ceph.com/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1773/bxLhidly.png' alt='Akka'/> [Akka](http://akka.io/) – Concurrency Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png' alt='Android SDK'/> [Android SDK](http://developer.android.com) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/3745/cb8U-gL6_400x400.jpg' alt='Angular'/> [Angular](https://angular.io) – Javascript MVC Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/5581/FJbH5vbF_400x400.jpg' alt='Apache Dubbo'/> [Apache Dubbo](http://dubbo.apache.org/en-us/) – Remote Procedure Call (RPC)
-- <img width='25' height='25' src='https://img.stackshare.io/service/5582/1483254.png' alt='MyBatis'/> [MyBatis](http://www.mybatis.org/mybatis-3/) – Object Relational Mapper (ORM)
-- <img width='25' height='25' src='https://img.stackshare.io/service/5807/default_cbd8ab670309059d7e315252d307d409aa40d793.png' alt='Project Reactor'/> [Project Reactor](https://projectreactor.io/) – Java Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
-- <img width='25' height='25' src='https://img.stackshare.io/service/6429/alpine_linux.png' alt='Alpine Linux'/> [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
+- <img width='25' height='25' src='https://img.stackshare.io/service/4456/ymCgaIO0_400x400.jpg' alt='Apache FreeMarker'/> [Apache FreeMarker](http://freemarker.incubator.apache.org/index.html) – Java Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png' alt='Autoprefixer'/> [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/4265/avro.png' alt='Avro'/> [Avro](https://avro.apache.org/) – Serialization Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/6604/nEeG2U6-_400x400.jpg' alt='Axon'/> [Axon](https://axoniq.io/product-overview/axon-framework) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/6915/preview.png' alt='MapD'/> [MapD](https://www.mapd.com/) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/6958/yQ4763oZ_400x400.jpg' alt='HSQLDB'/> [HSQLDB](http://hsqldb.org) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/7309/derby.png' alt='Apache Derby'/> [Apache Derby](https://db.apache.org/derby/index.html) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/7624/IG6D4Ro2_400x400.png' alt='Spring Data'/> [Spring Data](https://spring.io/projects/spring-data) – Database Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/7879/GraphiQL.png' alt='GraphiQL'/> [GraphiQL](https://github.com/graphql/graphiql) – Database Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/1101/C9QJ7V3X.png' alt='Bootstrap'/> [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
+- <img width='25' height='25' src='https://ucarecdn.com/d8ec839d-4d66-4c08-8297-9e2be82f6b75/' alt='Jackson'/> [Jackson](https://github.com/FasterXML/jackson) – Java Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/3278/netty_icon_256px.png' alt='Netty'/> [Netty](http://netty.io/) – Concurrency Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/5807/default_cbd8ab670309059d7e315252d307d409aa40d793.png' alt='Project Reactor'/> [Project Reactor](https://projectreactor.io/) – Java Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png' alt='Protobuf'/> [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/3881/da8da0c0e6dfbfc596f787ade49381a6_400x400.png' alt='QueryDSL'/> [QueryDSL](http://www.querydsl.com/) – Java Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/1796/984368.png' alt='RxJS'/> [RxJS](http://reactivex.io/rxjs/) – Concurrency Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/2190/6407041.png' alt='RxJava'/> [RxJava](https://github.com/ReactiveX/RxJava) – Java Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/1171/jCR2zNJV.png' alt='Sass'/> [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/2927/nPzvMuo2_400x400.png' alt='Spring Boot'/> [Spring Boot](https://spring.io/projects/spring-boot) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/5494/default_b403ef08976083aea6d4caf5a4f19f3325c751e5.png' alt='Spring Cloud'/> [Spring Cloud](https://spring.io/projects/spring-cloud) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/2006/spring-framework-project-logo.png' alt='Spring Framework'/> [Spring Framework](https://spring.io/projects/spring-framework) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/2971/UuHV6j99_400x400.jpg' alt='Vaadin'/> [Vaadin](http://vaadin.com) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png' alt='css-loader'/> [css-loader](https://github.com/webpack-contrib/css-loader) – CSS Pre-processors / Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='migra'/> [migra](https://migra.djrobstep.com/) – Database Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/8900/no-img-open-source.png' alt='TestNG'/> [TestNG](http://testng.org/doc/) – Testing Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/2970/wBjKn0ol.png' alt='guava'/> [guava](https://github.com/google/guava) – Java Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg' alt='jQuery'/> [jQuery](http://jquery.com/) – Javascript UI Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/1062/default_08edb6f82e2c79424efc1e297ab096e50acd8e0b.jpg' alt='ActiveMQ'/> [ActiveMQ](http://activemq.apache.org/) – Message Queue
+- <img width='25' height='25' src='https://img.stackshare.io/service/7309/derby.png' alt='Apache Derby'/> [Apache Derby](https://db.apache.org/derby/index.html) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/1032/cassandra_small.png' alt='Cassandra'/> [Cassandra](http://cassandra.apache.org/) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/201/reB72Lh4.png' alt='Compose'/> [Compose](https://www.compose.io/) – MongoDB Hosting
+- <img width='25' height='25' src='https://img.stackshare.io/service/1089/KMIbGY8C.png' alt='Couchbase'/> [Couchbase](http://www.couchbase.com/) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/11593/no-img.png' alt='DB'/> [DB](https://github.com/infostreams/db) – Database Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/3093/EhcacheTwitterIcon.png' alt='Ehcache'/> [Ehcache](http://ehcache.org/) – Cache
+- <img width='25' height='25' src='https://img.stackshare.io/service/694/Cloud_Storage.png' alt='Google Cloud Storage'/> [Google Cloud Storage](https://cloud.google.com/products/cloud-storage/) – Cloud Storage
+- <img width='25' height='25' src='https://img.stackshare.io/service/7879/GraphiQL.png' alt='GraphiQL'/> [GraphiQL](https://github.com/graphql/graphiql) – Database Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/3105/h2-logo_square_400x400.png' alt='H2 Database'/> [H2 Database](http://www.h2database.com/) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/1043/HBase-Twitter3.png' alt='HBase'/> [HBase](http://hbase.apache.org/) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/6958/yQ4763oZ_400x400.jpg' alt='HSQLDB'/> [HSQLDB](http://hsqldb.org) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/1044/elephant_rgb_sq.png' alt='Hadoop'/> [Hadoop](http://hadoop.apache.org/) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/2024/default_000f7e56d4be68acfa58a6ea8bd40e65a10e04ff.jpg' alt='Hazelcast'/> [Hazelcast](http://hazelcast.org/) – In-Memory Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/1756/1uNl_IZX.png' alt='Hibernate'/> [Hibernate](http://hibernate.org/) – Object Relational Mapper (ORM)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1063/kazUJooF_400x400.jpg' alt='Kafka'/> [Kafka](http://kafka.apache.org/) – Message Queue
 - <img width='25' height='25' src='https://img.stackshare.io/service/8938/default_952e19080b823dcfc14ef0508ae6a783d35224f6.png' alt='Kafka REST'/> [Kafka REST](https://github.com/confluentinc/kafka-rest) – Kafka Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/9190/kazUJooF_400x400.jpg' alt='Kafka Streams'/> [Kafka Streams](https://kafka.apache.org/documentation/streams/) – Stream Processing
-- <img width='25' height='25' src='https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg' alt='Android OS'/> [Android OS](https://www.android.com) – Operating Systems
-- <img width='25' height='25' src='https://img.stackshare.io/service/9663/default_a0119995387263e1035017a5ef7588f261ce82d2.png' alt='Lando'/> [Lando](https://docs.devwithlando.io/) – Container Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/11236/Group_22__3_.png' alt='Dataform'/> [Dataform](https://dataform.co/) – Business Intelligence
-- <img width='25' height='25' src='https://img.stackshare.io/service/11593/no-img.png' alt='DB'/> [DB](https://github.com/infostreams/db) – Database Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg' alt='LangChain'/> [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/1398/y1As8_s5_400x400.jpg' alt='Liquibase'/> [Liquibase](https://www.liquibase.com) – Database Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/3670/mqtticon-large_400x400.png' alt='MQTT'/> [MQTT](http://mqtt.org/) – Message Queue
+- <img width='25' height='25' src='https://img.stackshare.io/service/6915/preview.png' alt='MapD'/> [MapD](https://www.mapd.com/) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/1030/leaf-360x360.png' alt='MongoDB'/> [MongoDB](http://www.mongodb.com/) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/5582/1483254.png' alt='MyBatis'/> [MyBatis](http://www.mybatis.org/mybatis-3/) – Object Relational Mapper (ORM)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1025/logo-mysql-170x170.png' alt='MySQL'/> [MySQL](http://www.mysql.com) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/2066/nats-icon-color.png' alt='NATS'/> [NATS](https://nats.io) – Realtime Backend / API
+- <img width='25' height='25' src='https://img.stackshare.io/service/1482/FbkjM42a.png' alt='Neo4j'/> [Neo4j](http://www.neo4j.com/) – Graph Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/1026/jT-HJYJg.png' alt='Oracle'/> [Oracle](http://www.oracle.com/us/products/database/overview/index.html) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/1611/6bEpwjZ5_400x400.png' alt='OrientDB'/> [OrientDB](https://orientdb.com) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/1028/ASOhU5xJ.png' alt='PostgreSQL'/> [PostgreSQL](http://www.postgresql.org/) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/1061/default_df93e9a30d27519161b39d8c1d5c223c1642d187.jpg' alt='RabbitMQ'/> [RabbitMQ](http://www.rabbitmq.com/) – Message Queue
+- <img width='25' height='25' src='https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png' alt='Redis'/> [Redis](http://redis.io/) – In-Memory Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/1071/sqlite.jpg' alt='SQLite'/> [SQLite](http://www.sqlite.org/) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/7624/IG6D4Ro2_400x400.png' alt='Spring Data'/> [Spring Data](https://spring.io/projects/spring-data) – Database Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/2279/jooq-logo-white-750x750-padded.png' alt='jOOQ'/> [jOOQ](http://www.jooq.org) – Database Tools
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='migra'/> [migra](https://migra.djrobstep.com/) – Database Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png' alt='pgvector'/> [pgvector](https://github.com/pgvector/pgvector/) – Database Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
+- <img width='25' height='25' src='https://img.stackshare.io/service/2544/jasVAxyJ.png' alt='Cucumber'/> [Cucumber](https://cukes.info/) – Testing Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/1446/8cyY6D_m.png' alt='Eclipse'/> [Eclipse](https://www.eclipse.org/) – Integrated Development Environment
+- <img width='25' height='25' src='https://img.stackshare.io/service/2662/kWjFjx3K_400x400.jpg' alt='FindBugs'/> [FindBugs](http://findbugs.sourceforge.net/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/3628/515GX-Cc_400x400.jpg' alt='GlassFish'/> [GlassFish](https://glassfish.java.net) – Web Servers
+- <img width='25' height='25' src='https://img.stackshare.io/service/975/gradlephant-social-black-bg.png' alt='Gradle'/> [Gradle](https://www.gradle.org/) – Java Build Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/1758/cde558e9b4a1f07ff99f90d637c38388.png' alt='Hystrix'/> [Hystrix](https://github.com/Netflix/Hystrix) – Fault Tolerance Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/2188/unnamed.jpg' alt='JBoss'/> [JBoss](https://developers.redhat.com/products/eap) – Web Servers
+- <img width='25' height='25' src='https://img.stackshare.io/service/2020/874086.png' alt='JUnit'/> [JUnit](http://junit.org/) – Testing Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png' alt='Jasmine'/> [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/670/jenkins.png' alt='Jenkins'/> [Jenkins](http://jenkins-ci.org/) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/1084/default_392a491b5c8bff92ffa39468611ad8f9c0ff1939.png' alt='Jetty'/> [Jetty](http://www.eclipse.org/jetty/) – Web Servers
+- <img width='25' height='25' src='https://img.stackshare.io/service/1420/TidYGd6a.png' alt='Karma'/> [Karma](http://karma-runner.github.io/) – Browser Testing
+- <img width='25' height='25' src='https://img.stackshare.io/service/9663/default_a0119995387263e1035017a5ef7588f261ce82d2.png' alt='Lando'/> [Lando](https://docs.devwithlando.io/) – Container Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/2804/Coralogix-log4j-integration.jpg' alt='Log4j'/> [Log4j](https://logging.apache.org/log4j/2.x/) – Logging Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/2923/05518ecaa42841e834421e9d6987b04f_400x400.png' alt='Logback'/> [Logback](https://logback.qos.ch/) – Log Management
+- <img width='25' height='25' src='https://img.stackshare.io/service/1683/preview.png' alt='Logstash'/> [Logstash](http://logstash.net/) – Log Management
+- <img width='25' height='25' src='https://img.stackshare.io/service/2021/4y634TJm_400x400.jpg' alt='Mockito'/> [Mockito](https://site.mockito.org/) – Testing Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/2986/MonitLogo.png' alt='Monit'/> [Monit](https://mmonit.com) – Monitoring Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/1832/phantomjs.png' alt='PhantomJS'/> [PhantomJS](https://phantomjs.org/) – Headless Browsers
+- <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/2501/default_3cf1b307194b26782be5cb209d30360580ae5b3c.png' alt='Prometheus'/> [Prometheus](http://prometheus.io/) – Monitoring Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/1754/protractor-logo1.png' alt='Protractor'/> [Protractor](http://angular.github.io/protractor) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/2805/05518ecaa42841e834421e9d6987b04f_400x400.png' alt='SLF4J'/> [SLF4J](http://slf4j.org/) – Log Management
+- <img width='25' height='25' src='https://img.stackshare.io/service/5548/UB74SoK2_400x400.png' alt='Spock Framework'/> [Spock Framework](http://spockframework.org/) – Testing Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/5561/303157.png' alt='TSLint'/> [TSLint](https://github.com/palantir/tslint) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/8900/no-img-open-source.png' alt='TestNG'/> [TestNG](http://testng.org/doc/) – Testing Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/3411/R_inOTNM_400x400.png' alt='Wildfly'/> [Wildfly](https://www.wildfly.org/) – Web Servers
+- <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/2494/8leuukuhknbc8fj0eg42_400x400.png' alt='Zipkin'/> [Zipkin](https://zipkin.io/) – Monitoring Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/1528/apache-zookeeper.png' alt='Zookeeper'/> [Zookeeper](http://zookeeper.apache.org/) – Open Source Service Discovery
+- <img width='25' height='25' src='https://img.stackshare.io/service/2932/zuul.png' alt='Zuul'/> [Zuul](https://github.com/Netflix/zuul) – Microservices Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/844/iruTC031.png' alt='gulp'/> [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/1909/aws-lambda.png' alt='AWS Lambda'/> [AWS Lambda](http://aws.amazon.com/lambda) – Serverless / Task Processing
+- <img width='25' height='25' src='https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg' alt='Apache Camel'/> [Apache Camel](https://camel.apache.org/) – Platform as a Service
 - <img width='25' height='25' src='https://img.stackshare.io/service/433/default_6bea44ee4da746fbb7c9070a7ffac9b764d1ed79.png' alt='Amazon Kinesis'/> [Amazon Kinesis](http://aws.amazon.com/kinesis/) – Real-time Data Processing
+- <img width='25' height='25' src='https://img.stackshare.io/service/11236/Group_22__3_.png' alt='Dataform'/> [Dataform](https://dataform.co/) – Business Intelligence
+- <img width='25' height='25' src='https://img.stackshare.io/service/6429/alpine_linux.png' alt='Alpine Linux'/> [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
+- <img width='25' height='25' src='https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg' alt='Android OS'/> [Android OS](https://www.android.com) – Operating Systems
+- <img width='25' height='25' src='https://img.stackshare.io/service/4483/default_2e67ca5c691a5ecab8b19ffaeb371128b4266409.png' alt='Apache Solr'/> [Apache Solr](http://lucene.apache.org/solr/) – Search Engines
+- <img width='25' height='25' src='https://img.stackshare.io/service/841/Image_2019-05-20_at_4.58.04_PM.png' alt='Elasticsearch'/> [Elasticsearch](https://www.elastic.co/products/elasticsearch) – Search as a Service
+- <img width='25' height='25' src='https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg' alt='LangChain'/> [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/2440/9TeXWBzR_400x400.jpg' alt='Modernizr'/> [Modernizr](https://modernizr.com/) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png' alt='Moment.js'/> [Moment.js](http://momentjs.com/) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/4083/JSGv7dnx.png' alt='RAML'/> [RAML](http://raml.org/) – API Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- <img width='25' height='25' src='https://img.stackshare.io/service/4717/FtFnqC38_400x400.png' alt='TensorFlow'/> [TensorFlow](https://www.tensorflow.org) – Machine Learning Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -296,7 +296,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ankurkumarz/tutorials](https://github.com/ankurkumarz/tutorials)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|998<br/>Tools used|01/05/24 <br/>Report generated|
+|998<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -1603,7 +1603,7 @@ Full tech stack [here](/techstack.md)
 |[com.esotericsoftware:kryo]()|v4.0.1|10/13/19|catalin-burcea |BSD-3-Clause|N/A|
 |[com.fasterxml.jackson.core:jackson-annotations](http://github.com/FasterXML/jackson)|v2.10.1|03/22/20|amit.pandey |Apache-2.0|N/A|
 |[com.fasterxml.jackson.core:jackson-core](https://github.com/FasterXML/jackson-core)|v2.10.1|07/08/18|Eugen Paraschiv |Apache-2.0|N/A|
-|[com.fasterxml.jackson.core:jackson-databind](http://github.com/FasterXML/jackson)|v2.9.8|02/24/19|amit2103 |Apache-2.0|[CVE-2019-17267](https://github.com/advisories/GHSA-f3j5-rmmp-3fc5) (Critical)<br/>[CVE-2019-16942](https://github.com/advisories/GHSA-mx7p-6679-8g3q) (Critical)<br/>[CVE-2020-8840](https://github.com/advisories/GHSA-4w82-r329-3q67) (Critical)<br/>[CVE-2020-9546](https://github.com/advisories/GHSA-5p34-5m6p-p58g) (Critical)<br/>[CVE-2020-9548](https://github.com/advisories/GHSA-p43x-xfjf-5jhr) (Critical)<br/>[CVE-2020-9547](https://github.com/advisories/GHSA-q93h-jc49-78gg) (Critical)<br/>[CVE-2019-14540](https://github.com/advisories/GHSA-h822-r4r5-v8jg) (Critical)<br/>[CVE-2019-16335](https://github.com/advisories/GHSA-85cw-hj65-qqv9) (Critical)<br/>[CVE-2019-20330](https://github.com/advisories/GHSA-gww7-p5w4-wrfv) (Critical)<br/>[CVE-2019-17531](https://github.com/advisories/GHSA-gjmw-vf9h-g25v) (Critical)<br/>[CVE-2019-16943](https://github.com/advisories/GHSA-fmmc-742q-jg75) (Critical)<br/>[CVE-2019-14379](https://github.com/advisories/GHSA-6fpp-rgj9-8rwc) (Critical)<br/>[CVE-2020-36518](https://github.com/advisories/GHSA-57j2-w4cx-62h2) (High)<br/>[CVE-2020-10650](https://github.com/advisories/GHSA-rpr3-cw39-3pxh) (High)<br/>[CVE-2019-14439](https://github.com/advisories/GHSA-gwp4-hfv6-p7hw) (High)<br/>[CVE-2020-14195](https://github.com/advisories/GHSA-mc6h-4qgp-37qh) (High)<br/>[CVE-2020-14061](https://github.com/advisories/GHSA-c2q3-4qrh-fm48) (High)<br/>[CVE-2020-14062](https://github.com/advisories/GHSA-c265-37vj-cwcc) (High)<br/>[CVE-2020-14060](https://github.com/advisories/GHSA-j823-4qch-3rgm) (High)<br/>[CVE-2020-11112](https://github.com/advisories/GHSA-58pp-9c76-5625) (High)<br/>[CVE-2020-11619](https://github.com/advisories/GHSA-27xj-rqx5-2255) (High)<br/>[CVE-2020-11113](https://github.com/advisories/GHSA-9vvp-fxw6-jcxr) (High)<br/>[CVE-2020-11111](https://github.com/advisories/GHSA-v3xw-c963-f5hc) (High)<br/>[CVE-2020-10968](https://github.com/advisories/GHSA-rf6r-2c4q-2vwg) (High)<br/>[CVE-2019-14892](https://github.com/advisories/GHSA-cf6r-3wgc-h863) (High)<br/>[CVE-2020-10969](https://github.com/advisories/GHSA-758m-v56v-grj4) (High)<br/>[CVE-2020-24750](https://github.com/advisories/GHSA-qjw2-hr98-qgfh) (High)<br/>[CVE-2020-25649](https://github.com/advisories/GHSA-288c-cq4h-88gq) (High)<br/>[CVE-2020-11620](https://github.com/advisories/GHSA-h4rc-386g-6m85) (High)<br/>[CVE-2020-35728](https://github.com/advisories/GHSA-5r5r-6hpj-8gg9) (High)<br/>[CVE-2019-14893](https://github.com/advisories/GHSA-qmqc-x3r4-6v39) (High)<br/>[CVE-2020-10673](https://github.com/advisories/GHSA-fqwf-pjwf-7vqv) (High)<br/>[CVE-2020-36181](https://github.com/advisories/GHSA-cvm9-fjm9-3572) (High)<br/>[CVE-2020-36186](https://github.com/advisories/GHSA-v585-23hc-c647) (High)<br/>[CVE-2020-24616](https://github.com/advisories/GHSA-h3cw-g4mq-c5x2) (High)<br/>[CVE-2020-35490](https://github.com/advisories/GHSA-wh8g-3j2c-rqj5) (High)<br/>[CVE-2020-35491](https://github.com/advisories/GHSA-r3gr-cxrf-hg25) (High)<br/>[CVE-2020-36182](https://github.com/advisories/GHSA-89qr-369f-5m5x) (High)<br/>[CVE-2020-36179](https://github.com/advisories/GHSA-9gph-22xh-8x98) (High)<br/>[CVE-2020-36185](https://github.com/advisories/GHSA-8w26-6f25-cm9x) (High)<br/>[CVE-2020-36180](https://github.com/advisories/GHSA-8c4j-34r4-xr8g) (High)<br/>[CVE-2020-36184](https://github.com/advisories/GHSA-m6x4-97wx-4q27) (High)<br/>[CVE-2020-36183](https://github.com/advisories/GHSA-9m6f-7xcq-8vf8) (High)<br/>[CVE-2020-36188](https://github.com/advisories/GHSA-f9xh-2qgp-cq57) (High)<br/>[CVE-2020-36187](https://github.com/advisories/GHSA-r695-7vr9-jgc2) (High)<br/>[CVE-2020-36189](https://github.com/advisories/GHSA-vfqx-33qm-g869) (High)<br/>[CVE-2020-10672](https://github.com/advisories/GHSA-95cm-88f5-f2c7) (High)<br/>[CVE-2019-12086](https://github.com/advisories/GHSA-5ww9-j83m-q7qx) (High)<br/>[CVE-2022-42004](https://github.com/advisories/GHSA-rgv9-q543-rqg4) (High)<br/>[CVE-2022-42003](https://github.com/advisories/GHSA-jjjh-jjxp-wpff) (High)<br/>[CVE-2021-20190](https://github.com/advisories/GHSA-5949-rw7g-wx7w) (High)<br/>[CVE-2019-12384](https://github.com/advisories/GHSA-mph4-vhrx-mv67) (Moderate)<br/>[CVE-2019-12814](https://github.com/advisories/GHSA-cmfg-87vq-g5g4) (Moderate)|
+|[com.fasterxml.jackson.core:jackson-databind](http://github.com/FasterXML/jackson)|v2.9.8|02/24/19|amit2103 |Apache-2.0|[CVE-2019-14540](https://github.com/advisories/GHSA-h822-r4r5-v8jg) (Critical)<br/>[CVE-2019-16335](https://github.com/advisories/GHSA-85cw-hj65-qqv9) (Critical)<br/>[CVE-2019-17267](https://github.com/advisories/GHSA-f3j5-rmmp-3fc5) (Critical)<br/>[CVE-2019-20330](https://github.com/advisories/GHSA-gww7-p5w4-wrfv) (Critical)<br/>[CVE-2020-9546](https://github.com/advisories/GHSA-5p34-5m6p-p58g) (Critical)<br/>[CVE-2020-9548](https://github.com/advisories/GHSA-p43x-xfjf-5jhr) (Critical)<br/>[CVE-2019-17531](https://github.com/advisories/GHSA-gjmw-vf9h-g25v) (Critical)<br/>[CVE-2019-16943](https://github.com/advisories/GHSA-fmmc-742q-jg75) (Critical)<br/>[CVE-2019-14379](https://github.com/advisories/GHSA-6fpp-rgj9-8rwc) (Critical)<br/>[CVE-2020-9547](https://github.com/advisories/GHSA-q93h-jc49-78gg) (Critical)<br/>[CVE-2019-16942](https://github.com/advisories/GHSA-mx7p-6679-8g3q) (Critical)<br/>[CVE-2020-8840](https://github.com/advisories/GHSA-4w82-r329-3q67) (Critical)<br/>[CVE-2020-14060](https://github.com/advisories/GHSA-j823-4qch-3rgm) (High)<br/>[CVE-2020-11112](https://github.com/advisories/GHSA-58pp-9c76-5625) (High)<br/>[CVE-2020-11619](https://github.com/advisories/GHSA-27xj-rqx5-2255) (High)<br/>[CVE-2020-11113](https://github.com/advisories/GHSA-9vvp-fxw6-jcxr) (High)<br/>[CVE-2020-11111](https://github.com/advisories/GHSA-v3xw-c963-f5hc) (High)<br/>[CVE-2020-10968](https://github.com/advisories/GHSA-rf6r-2c4q-2vwg) (High)<br/>[CVE-2019-14892](https://github.com/advisories/GHSA-cf6r-3wgc-h863) (High)<br/>[CVE-2020-10969](https://github.com/advisories/GHSA-758m-v56v-grj4) (High)<br/>[CVE-2020-11620](https://github.com/advisories/GHSA-h4rc-386g-6m85) (High)<br/>[CVE-2019-14893](https://github.com/advisories/GHSA-qmqc-x3r4-6v39) (High)<br/>[CVE-2019-12086](https://github.com/advisories/GHSA-5ww9-j83m-q7qx) (High)<br/>[CVE-2020-10650](https://github.com/advisories/GHSA-rpr3-cw39-3pxh) (High)<br/>[CVE-2020-24750](https://github.com/advisories/GHSA-qjw2-hr98-qgfh) (High)<br/>[CVE-2021-20190](https://github.com/advisories/GHSA-5949-rw7g-wx7w) (High)<br/>[CVE-2022-42004](https://github.com/advisories/GHSA-rgv9-q543-rqg4) (High)<br/>[CVE-2020-25649](https://github.com/advisories/GHSA-288c-cq4h-88gq) (High)<br/>[CVE-2020-35728](https://github.com/advisories/GHSA-5r5r-6hpj-8gg9) (High)<br/>[CVE-2020-36181](https://github.com/advisories/GHSA-cvm9-fjm9-3572) (High)<br/>[CVE-2020-10673](https://github.com/advisories/GHSA-fqwf-pjwf-7vqv) (High)<br/>[CVE-2020-36186](https://github.com/advisories/GHSA-v585-23hc-c647) (High)<br/>[CVE-2020-24616](https://github.com/advisories/GHSA-h3cw-g4mq-c5x2) (High)<br/>[CVE-2020-35490](https://github.com/advisories/GHSA-wh8g-3j2c-rqj5) (High)<br/>[CVE-2020-35491](https://github.com/advisories/GHSA-r3gr-cxrf-hg25) (High)<br/>[CVE-2020-36182](https://github.com/advisories/GHSA-89qr-369f-5m5x) (High)<br/>[CVE-2020-36179](https://github.com/advisories/GHSA-9gph-22xh-8x98) (High)<br/>[CVE-2020-36185](https://github.com/advisories/GHSA-8w26-6f25-cm9x) (High)<br/>[CVE-2020-36180](https://github.com/advisories/GHSA-8c4j-34r4-xr8g) (High)<br/>[CVE-2020-36184](https://github.com/advisories/GHSA-m6x4-97wx-4q27) (High)<br/>[CVE-2020-36183](https://github.com/advisories/GHSA-9m6f-7xcq-8vf8) (High)<br/>[CVE-2020-36188](https://github.com/advisories/GHSA-f9xh-2qgp-cq57) (High)<br/>[CVE-2020-36187](https://github.com/advisories/GHSA-r695-7vr9-jgc2) (High)<br/>[CVE-2020-36189](https://github.com/advisories/GHSA-vfqx-33qm-g869) (High)<br/>[CVE-2020-10672](https://github.com/advisories/GHSA-95cm-88f5-f2c7) (High)<br/>[CVE-2022-42003](https://github.com/advisories/GHSA-jjjh-jjxp-wpff) (High)<br/>[CVE-2020-36518](https://github.com/advisories/GHSA-57j2-w4cx-62h2) (High)<br/>[CVE-2020-14195](https://github.com/advisories/GHSA-mc6h-4qgp-37qh) (High)<br/>[CVE-2020-14061](https://github.com/advisories/GHSA-c2q3-4qrh-fm48) (High)<br/>[CVE-2020-14062](https://github.com/advisories/GHSA-c265-37vj-cwcc) (High)<br/>[CVE-2019-14439](https://github.com/advisories/GHSA-gwp4-hfv6-p7hw) (High)<br/>[CVE-2019-12384](https://github.com/advisories/GHSA-mph4-vhrx-mv67) (Moderate)<br/>[CVE-2019-12814](https://github.com/advisories/GHSA-cmfg-87vq-g5g4) (Moderate)|
 |[com.fasterxml.jackson.dataformat:jackson-dataformat-csv](https://github.com/FasterXML/jackson-dataformats-text)|N/A|12/19/19|catalin-burcea |Apache-2.0|N/A|
 |[com.fasterxml.jackson.dataformat:jackson-dataformat-smile](http://github.com/FasterXML/jackson-dataformats-binary)|v2.9.1|11/28/19|Dhawal Kapil |Apache-2.0|N/A|
 |[com.fasterxml.jackson.dataformat:jackson-dataformat-xml](https://github.com/FasterXML/jackson-dataformat-xml)|N/A|12/19/19|catalin-burcea |Apache-2.0|N/A|
@@ -1653,7 +1653,7 @@ Full tech stack [here](/techstack.md)
 |[com.googlecode.multithreadedtc:multithreadedtc](http://code.google.com/p/multithreadedtc/)|v1.01|04/28/20|Kumar Chandrakant |BSD-3-Clause|N/A|
 |[com.googlecode.protobuf-java-format:protobuf-java-format](https://github.com/bivas/protobuf-java-format)|v1.4|12/19/18|geroza |BSD-3-Clause|N/A|
 |[com.h2database:h2](http://www.h2database.com)|v1.4.199|12/24/19|Krzysztof Woyke |MIT-feh|[CVE-2022-23221](https://github.com/advisories/GHSA-45hx-wfhj-473x) (Critical)<br/>[CVE-2021-42392](https://github.com/advisories/GHSA-h376-j262-vhq6) (Critical)<br/>[CVE-2021-23463](https://github.com/advisories/GHSA-7rpj-hg47-cx62) (High)<br/>[CVE-2022-45868](https://github.com/advisories/GHSA-22wj-vf5f-wrvj) (High)|
-|[com.hazelcast:hazelcast](https://www.hazelcast.org)|v3.8.4|04/25/19|amit2103 |Apache-2.0|[CVE-2022-36437](https://github.com/advisories/GHSA-c5hg-mr8r-f6jp) (Critical)<br/>[CVE-2023-33265](https://github.com/advisories/GHSA-c5vj-wp4v-mmvx) (High)<br/>[CVE-2016-10750](https://github.com/advisories/GHSA-jv65-pf7v-f7p8) (High)<br/>[CVE-2023-33264](https://github.com/advisories/GHSA-5gj6-62g7-vmgf) (Moderate)|
+|[com.hazelcast:hazelcast](https://www.hazelcast.org)|v3.8.4|04/25/19|amit2103 |Apache-2.0|[CVE-2022-36437](https://github.com/advisories/GHSA-c5hg-mr8r-f6jp) (Critical)<br/>[CVE-2016-10750](https://github.com/advisories/GHSA-jv65-pf7v-f7p8) (High)<br/>[CVE-2023-45859](https://github.com/advisories/GHSA-xh6m-7cr7-xx66) (High)<br/>[CVE-2023-33265](https://github.com/advisories/GHSA-c5vj-wp4v-mmvx) (High)<br/>[CVE-2023-33264](https://github.com/advisories/GHSA-5gj6-62g7-vmgf) (Moderate)<br/>[CVE-2023-45860](https://github.com/advisories/GHSA-8h4x-xvjp-vf99) (Moderate)|
 |[com.hazelcast:hazelcast-spring](https://www.hazelcast.org)|N/A|04/25/19|amit2103 |Apache-2.0|N/A|
 |[com.hierynomus:sshj](https://github.com/hierynomus/sshj)|v0.27.0|07/18/19|DOHA |Apache-2.0|N/A|
 |[com.ibm.icu:icu4j](http://icu-project.org/)|v64.2|05/24/19|Liesheng Long |Unicode-TOU,ICU|N/A|
@@ -1662,7 +1662,7 @@ Full tech stack [here](/techstack.md)
 |[com.j256.ormlite:ormlite-jdbc](http://ormlite.sourceforge.net/)|v5.0|12/05/19|catalin-burcea |ISC|N/A|
 |[com.jakewharton.rxrelay2:rxrelay]()|v2.0.0|11/02/19|Sjmillington |Apache-2.0|N/A|
 |[com.jayway.awaitility:awaitility](http://github.com/jayway/awaitility)|v1.7.0|04/26/18|amit2103 |Apache-2.0|N/A|
-|[com.jayway.jsonpath:json-path](https://github.com/jayway/JsonPath)|v2.4.0|07/08/18|Eugen Paraschiv |Apache-2.0|N/A|
+|[com.jayway.jsonpath:json-path](https://github.com/jayway/JsonPath)|v2.4.0|07/08/18|Eugen Paraschiv |Apache-2.0|[CVE-2023-51074](https://github.com/advisories/GHSA-pfh2-hfmq-phg5) (Moderate)|
 |[com.jayway.restassured:rest-assured](http://code.google.com/p/rest-assured)|v2.9.0|04/01/20|Krzysztof Woyke |Apache-2.0|N/A|
 |[com.jcabi:jcabi-aspects](aspects.jcabi.com)|v0.22.6|01/09/20|Anshul BANSAL |BSD-3-Clause|N/A|
 |[com.jcraft:jsch](http://www.jcraft.com/jsch/)|v0.1.55|07/18/19|DOHA |BSD-3-Clause|N/A|
@@ -1846,15 +1846,15 @@ Full tech stack [here](/techstack.md)
 |[org.apache.avro:avro-compiler](http://avro.apache.org)|v1.8.2|03/15/20|amit.pandey |Apache-2.0|N/A|
 |[org.apache.beam:beam-runners-direct-java](http://beam.apache.org)|v2.19.0|02/26/20|pazis |Apache-2.0|N/A|
 |[org.apache.beam:beam-sdks-java-core](http://beam.apache.org)|v2.19.0|02/26/20|pazis |Apache-2.0|N/A|
-|[org.apache.camel:camel-core]()|v2.18.1|12/05/19|catalin-burcea |Apache-2.0|[CVE-2017-5643](https://github.com/advisories/GHSA-vq9j-jh62-5hmp) (High)<br/>[CVE-2020-11971](https://github.com/advisories/GHSA-hfg5-xpvw-c9x4) (High)<br/>[CVE-2019-0188](https://github.com/advisories/GHSA-h896-mx9x-g32g) (High)|
+|[org.apache.camel:camel-core]()|v2.18.1|12/05/19|catalin-burcea |Apache-2.0|[CVE-2017-5643](https://github.com/advisories/GHSA-vq9j-jh62-5hmp) (High)<br/>[CVE-2019-0188](https://github.com/advisories/GHSA-h896-mx9x-g32g) (High)<br/>[CVE-2020-11971](https://github.com/advisories/GHSA-hfg5-xpvw-c9x4) (High)|
 |[org.apache.camel:camel-spring](https://www.apache.org/)|v2.18.1|12/05/19|catalin-burcea |Apache-2.0|N/A|
 |[org.apache.cayenne:cayenne-server]()|N/A|04/26/18|amit2103 |Apache-2.0|N/A|
 |[org.apache.commons:commons-collections4](https://commons.apache.org/proper/commons-collections/)|v4.3|03/15/20|amit.pandey |Apache-2.0|N/A|
-|[org.apache.commons:commons-compress](https://commons.apache.org/proper/commons-compress/)|v1.15|07/06/19|amit2103 |Apache-2.0|[CVE-2021-36090](https://github.com/advisories/GHSA-mc84-pj99-q6hh) (High)<br/>[CVE-2019-12402](https://github.com/advisories/GHSA-53x6-4x5p-rrvv) (High)<br/>[CVE-2021-35515](https://github.com/advisories/GHSA-7hfm-57qf-j43q) (High)<br/>[CVE-2021-35516](https://github.com/advisories/GHSA-crv7-7245-f45f) (High)<br/>[CVE-2021-35517](https://github.com/advisories/GHSA-xqfj-vm6h-2x34) (High)<br/>[CVE-2018-11771](https://github.com/advisories/GHSA-hrmr-f5m6-m9pq) (Moderate)<br/>[CVE-2018-1324](https://github.com/advisories/GHSA-h436-432x-8fvx) (Moderate)|
+|[org.apache.commons:commons-compress](https://commons.apache.org/proper/commons-compress/)|v1.15|07/06/19|amit2103 |Apache-2.0|[CVE-2024-25710](https://github.com/advisories/GHSA-4g9r-vxhx-9pgx) (High)<br/>[CVE-2021-35515](https://github.com/advisories/GHSA-7hfm-57qf-j43q) (High)<br/>[CVE-2021-35516](https://github.com/advisories/GHSA-crv7-7245-f45f) (High)<br/>[CVE-2021-35517](https://github.com/advisories/GHSA-xqfj-vm6h-2x34) (High)<br/>[CVE-2021-36090](https://github.com/advisories/GHSA-mc84-pj99-q6hh) (High)<br/>[CVE-2019-12402](https://github.com/advisories/GHSA-53x6-4x5p-rrvv) (High)<br/>[CVE-2018-1324](https://github.com/advisories/GHSA-h436-432x-8fvx) (Moderate)<br/>[CVE-2018-11771](https://github.com/advisories/GHSA-hrmr-f5m6-m9pq) (Moderate)|
 |[org.apache.commons:commons-csv](http://commons.apache.org/proper/commons-csv/)|v1.4|12/05/19|catalin-burcea |Apache-2.0|N/A|
 |[org.apache.commons:commons-dbcp2](http://commons.apache.org/proper/commons-dbcp/)|v2.1.1|12/05/19|catalin-burcea |Apache-2.0|N/A|
 |[org.apache.commons:commons-exec](http://commons.apache.org/proper/commons-exec/)|v1.3|03/15/20|amit.pandey |Apache-2.0|N/A|
-|[org.apache.commons:commons-io](http://jakarta.apache.org/commons/io/)|v1.3.2|12/05/19|catalin-burcea |Apache-2.0|N/A|
+|[org.apache.commons:commons-io](http://jakarta.apache.org/commons/io/)|v1.3.2|12/05/19|catalin-burcea |Apache-2.0|[CVE-2021-29425](https://github.com/advisories/GHSA-gwrp-pvrq-jmwv) (Moderate)|
 |[org.apache.commons:commons-lang3](http://commons.apache.org/proper/commons-lang/)|v3.8.1|03/15/20|amit.pandey |Apache-2.0|N/A|
 |[org.apache.commons:commons-math3](http://commons.apache.org/proper/commons-math/)|v3.6.1|03/15/20|amit.pandey |Apache-2.0|N/A|
 |[org.apache.commons:commons-text](http://commons.apache.org/proper/commons-text)|v1.4|03/15/20|amit.pandey |Apache-2.0|N/A|
@@ -1868,7 +1868,7 @@ Full tech stack [here](/techstack.md)
 |[org.apache.deltaspike.cdictrl:deltaspike-cdictrl-weld](http://deltaspike.apache.org)|N/A|12/05/19|catalin-burcea |Apache-2.0|N/A|
 |[org.apache.deltaspike.modules:deltaspike-test-control-module-api]()|N/A|01/26/20|Dhawal Kapil |Apache-2.0|N/A|
 |[org.apache.deltaspike.modules:deltaspike-test-control-module-impl]()|N/A|01/26/20|Dhawal Kapil |Apache-2.0|N/A|
-|[org.apache.derby:derby](http://db.apache.org/derby/)|v10.8.1|04/12/20|Kumar Chandrakant |Apache-2.0|[CVE-2022-46337](https://github.com/advisories/GHSA-rcjc-c4pj-xxrp) (Critical)<br/>[CVE-2015-1832](https://github.com/advisories/GHSA-wr69-g62g-2r9h) (Critical)<br/>[CVE-2018-1313](https://github.com/advisories/GHSA-42xw-p62x-hwcf) (Moderate)|
+|[org.apache.derby:derby](http://db.apache.org/derby/)|v10.8.1|04/12/20|Kumar Chandrakant |Apache-2.0|[CVE-2015-1832](https://github.com/advisories/GHSA-wr69-g62g-2r9h) (Critical)<br/>[CVE-2022-46337](https://github.com/advisories/GHSA-rcjc-c4pj-xxrp) (Critical)<br/>[CVE-2018-1313](https://github.com/advisories/GHSA-42xw-p62x-hwcf) (Moderate)|
 |[org.apache.derby:derbyclient]()|v10.13.1|12/05/19|catalin-burcea |Apache-2.0|N/A|
 |[org.apache.derby:derbynet]()|v10.13.1|12/05/19|catalin-burcea |Apache-2.0|N/A|
 |[org.apache.derby:derbytools]()|v10.13.1|12/05/19|catalin-burcea |Apache-2.0|N/A|
@@ -1894,7 +1894,7 @@ Full tech stack [here](/techstack.md)
 |[org.apache.kafka:kafka-clients](http://kafka.apache.org)|v2.0.0|04/29/20|mikr |Apache-2.0|[CVE-2021-38153](https://github.com/advisories/GHSA-3j6g-hxx5-3q26) (Moderate)|
 |[org.apache.kafka:kafka-streams](https://kafka.apache.org)|v2.0.0|04/29/20|mikr |Apache-2.0|N/A|
 |[org.apache.logging.log4j:log4j-api](https://logging.apache.org/log4j/2.x/)|v2.11.0|12/05/19|catalin-burcea |Apache-2.0|[CVE-2021-45046](https://github.com/advisories/GHSA-7rjr-3q55-vv33) (Critical)<br/>[CVE-2021-44228](https://github.com/advisories/GHSA-jfh8-c2jp-5v3q) (Critical)<br/>[CVE-2021-45105](https://github.com/advisories/GHSA-p6xc-xr62-6r2g) (High)<br/>[CVE-2021-44832](https://github.com/advisories/GHSA-8489-44mv-ggj8) (Moderate)|
-|[org.apache.logging.log4j:log4j-core](https://logging.apache.org/log4j/2.x/)|v2.8.2|12/05/19|catalin-burcea |Apache-2.0|[CVE-2021-44228](https://github.com/advisories/GHSA-jfh8-c2jp-5v3q) (Critical)<br/>[CVE-2021-45046](https://github.com/advisories/GHSA-7rjr-3q55-vv33) (Critical)<br/>[CVE-2021-45105](https://github.com/advisories/GHSA-p6xc-xr62-6r2g) (High)<br/>[CVE-2021-44832](https://github.com/advisories/GHSA-8489-44mv-ggj8) (Moderate)<br/>[CVE-2020-9488](https://github.com/advisories/GHSA-vwqq-5vrc-xw9h) (Low)|
+|[org.apache.logging.log4j:log4j-core](https://logging.apache.org/log4j/2.x/)|v2.8.2|12/05/19|catalin-burcea |Apache-2.0|[CVE-2021-45046](https://github.com/advisories/GHSA-7rjr-3q55-vv33) (Critical)<br/>[CVE-2021-44228](https://github.com/advisories/GHSA-jfh8-c2jp-5v3q) (Critical)<br/>[CVE-2021-45105](https://github.com/advisories/GHSA-p6xc-xr62-6r2g) (High)<br/>[CVE-2021-44832](https://github.com/advisories/GHSA-8489-44mv-ggj8) (Moderate)<br/>[CVE-2020-9488](https://github.com/advisories/GHSA-vwqq-5vrc-xw9h) (Low)|
 |[org.apache.lucene:lucene-analyzers-common]()|v7.4.0|12/05/19|catalin-burcea |Apache-2.0|N/A|
 |[org.apache.lucene:lucene-core](https://lucene.apache.org)|v7.4.0|12/05/19|catalin-burcea |Apache-2.0|N/A|
 |[org.apache.lucene:lucene-queryparser]()|v7.4.0|12/05/19|catalin-burcea |Apache-2.0|N/A|
@@ -1912,19 +1912,19 @@ Full tech stack [here](/techstack.md)
 |[org.apache.poi:poi-ooxml](http://poi.apache.org/)|v4.1.1|03/15/20|amit.pandey |Apache-2.0|N/A|
 |[org.apache.poi:poi-scratchpad](http://poi.apache.org/)|v3.15|07/12/18|Sanjay Patel |Apache-2.0|[CVE-2022-26336](https://github.com/advisories/GHSA-mqvp-7rrg-9jxc) (Moderate)|
 |[org.apache.pulsar:pulsar-client]()|v2.1.1|03/15/20|amit.pandey |N/A|[CVE-2022-33681](https://github.com/advisories/GHSA-c5fp-x2h5-vjv7) (Moderate)|
-|[org.apache.shiro:shiro-core]()|v1.4.0|03/15/20|amit.pandey |Apache-2.0|[CVE-2022-40664](https://github.com/advisories/GHSA-45x9-q6vj-cqgq) (Critical)<br/>[CVE-2021-41303](https://github.com/advisories/GHSA-f6jp-j6w3-w9hm) (Critical)<br/>[CVE-2020-1957](https://github.com/advisories/GHSA-26gr-cvq3-qxgf) (Critical)<br/>[CVE-2020-11989](https://github.com/advisories/GHSA-72w9-fcj5-3fcg) (Critical)<br/>[CVE-2022-32532](https://github.com/advisories/GHSA-4cf5-xmhp-3xj7) (Critical)<br/>[CVE-2019-12422](https://github.com/advisories/GHSA-r679-m633-g7wc) (High)<br/>[CVE-2020-13933](https://github.com/advisories/GHSA-2vgm-wxr3-6w2j) (High)|
+|[org.apache.shiro:shiro-core]()|v1.4.0|03/15/20|amit.pandey |Apache-2.0|[CVE-2020-11989](https://github.com/advisories/GHSA-72w9-fcj5-3fcg) (Critical)<br/>[CVE-2022-40664](https://github.com/advisories/GHSA-45x9-q6vj-cqgq) (Critical)<br/>[CVE-2022-32532](https://github.com/advisories/GHSA-4cf5-xmhp-3xj7) (Critical)<br/>[CVE-2021-41303](https://github.com/advisories/GHSA-f6jp-j6w3-w9hm) (Critical)<br/>[CVE-2020-1957](https://github.com/advisories/GHSA-26gr-cvq3-qxgf) (Critical)<br/>[CVE-2019-12422](https://github.com/advisories/GHSA-r679-m633-g7wc) (High)<br/>[CVE-2020-13933](https://github.com/advisories/GHSA-2vgm-wxr3-6w2j) (High)<br/>[CVE-2023-46749](https://github.com/advisories/GHSA-jc7h-c423-mpjc) (Moderate)|
 |[org.apache.solr:solr-solrj]()|v6.4.0|03/15/20|amit.pandey |Apache-2.0|N/A|
 |[org.apache.storm:storm-core](https://storm.apache.org)|v1.2.2|12/05/19|catalin-burcea |Apache-2.0|[CVE-2019-0202](https://github.com/advisories/GHSA-r9pv-hg64-jqrp) (High)|
-|[org.apache.struts:struts2-core](http://struts.apache.org/)|v2.5.5|12/05/19|catalin-burcea |Apache-2.0|[CVE-2017-5638](https://github.com/advisories/GHSA-j77q-2qqg-6989) (Critical)<br/>[CVE-2023-50164](https://github.com/advisories/GHSA-2j39-qcjm-428w) (Critical)<br/>[CVE-2020-17530](https://github.com/advisories/GHSA-jc35-q369-45pv) (Critical)<br/>[CVE-2021-31805](https://github.com/advisories/GHSA-v8j6-6c2r-r27c) (Critical)<br/>[CVE-2019-0230](https://github.com/advisories/GHSA-wp4h-pvgw-5727) (Critical)<br/>[CVE-2017-12611](https://github.com/advisories/GHSA-8fx9-5hx8-crhm) (Critical)<br/>[CVE-2017-9787](https://github.com/advisories/GHSA-8mr5-h28g-36qx) (High)<br/>[CVE-2019-0233](https://github.com/advisories/GHSA-ccp5-gg58-pxfm) (High)<br/>[CVE-2018-11776](https://github.com/advisories/GHSA-cr6j-3jp9-rw65) (High)<br/>[CVE-2023-41835](https://github.com/advisories/GHSA-729q-fcgp-r5xh) (High)<br/>[CVE-2012-1592](https://github.com/advisories/GHSA-8m5q-crqq-6pmf) (High)<br/>[CVE-2017-9804](https://github.com/advisories/GHSA-x5x7-3v85-wpc4) (High)<br/>[CVE-2023-34396](https://github.com/advisories/GHSA-4g42-gqrg-4633) (High)<br/>[CVE-2016-4465](https://github.com/advisories/GHSA-xg75-68x3-7p3q) (Moderate)<br/>[CVE-2016-8738](https://github.com/advisories/GHSA-86vq-8qhc-5rqw) (Moderate)<br/>[CVE-2023-34149](https://github.com/advisories/GHSA-8f6x-v685-g2xc) (Moderate)<br/>[CVE-2017-7672](https://github.com/advisories/GHSA-9gp7-jvm2-r4mx) (Moderate)|
+|[org.apache.struts:struts2-core](http://struts.apache.org/)|v2.5.5|12/05/19|catalin-burcea |Apache-2.0|[CVE-2017-5638](https://github.com/advisories/GHSA-j77q-2qqg-6989) (Critical)<br/>[CVE-2023-50164](https://github.com/advisories/GHSA-2j39-qcjm-428w) (Critical)<br/>[CVE-2020-17530](https://github.com/advisories/GHSA-jc35-q369-45pv) (Critical)<br/>[CVE-2017-12611](https://github.com/advisories/GHSA-8fx9-5hx8-crhm) (Critical)<br/>[CVE-2021-31805](https://github.com/advisories/GHSA-v8j6-6c2r-r27c) (Critical)<br/>[CVE-2019-0230](https://github.com/advisories/GHSA-wp4h-pvgw-5727) (Critical)<br/>[CVE-2018-11776](https://github.com/advisories/GHSA-cr6j-3jp9-rw65) (High)<br/>[CVE-2017-9787](https://github.com/advisories/GHSA-8mr5-h28g-36qx) (High)<br/>[CVE-2019-0233](https://github.com/advisories/GHSA-ccp5-gg58-pxfm) (High)<br/>[CVE-2023-41835](https://github.com/advisories/GHSA-729q-fcgp-r5xh) (High)<br/>[CVE-2012-1592](https://github.com/advisories/GHSA-8m5q-crqq-6pmf) (High)<br/>[CVE-2017-9804](https://github.com/advisories/GHSA-x5x7-3v85-wpc4) (High)<br/>[CVE-2023-34396](https://github.com/advisories/GHSA-4g42-gqrg-4633) (High)<br/>[CVE-2017-7672](https://github.com/advisories/GHSA-9gp7-jvm2-r4mx) (Moderate)<br/>[CVE-2016-4465](https://github.com/advisories/GHSA-xg75-68x3-7p3q) (Moderate)<br/>[CVE-2016-8738](https://github.com/advisories/GHSA-86vq-8qhc-5rqw) (Moderate)<br/>[CVE-2023-34149](https://github.com/advisories/GHSA-8f6x-v685-g2xc) (Moderate)|
 |[org.apache.struts:struts2-junit-plugin]()|v2.5.5|12/05/19|catalin-burcea |Apache-2.0|N/A|
 |[org.apache.tapestry:tapestry-core]()|v5.4.5|03/15/20|amit.pandey |N/A|[CVE-2021-27850](https://github.com/advisories/GHSA-mj8x-cpr8-x39h) (Critical)<br/>[CVE-2021-30638](https://github.com/advisories/GHSA-ghm8-mmx7-xvg2) (High)<br/>[CVE-2022-31781](https://github.com/advisories/GHSA-227g-7cvv-6ff3) (High)<br/>[CVE-2020-13953](https://github.com/advisories/GHSA-w9mp-p2wp-2xf7) (Moderate)|
 |[org.apache.tapestry:tapestry-test]()|v5.4.5|03/15/20|amit.pandey |N/A|N/A|
 |[org.apache.thrift:libthrift](http://thrift.apache.org)|v0.10.0|03/15/20|amit.pandey |Apache-2.0|[CVE-2019-0205](https://github.com/advisories/GHSA-rj7p-rfgp-852x) (High)<br/>[CVE-2018-1320](https://github.com/advisories/GHSA-wjxj-f8rg-99wx) (High)<br/>[CVE-2020-13949](https://github.com/advisories/GHSA-g2fg-mr77-6vrm) (High)<br/>[CVE-2018-11798](https://github.com/advisories/GHSA-vx85-mj8c-4qm6) (Moderate)|
-|[org.apache.tika:tika-core](http://tika.apache.org/)|v1.18|03/15/20|amit.pandey |Apache-2.0|[CVE-2019-10088](https://github.com/advisories/GHSA-mfwh-gqx8-c787) (High)<br/>[CVE-2019-10094](https://github.com/advisories/GHSA-mm7m-xg4h-6m52) (High)<br/>[CVE-2018-11761](https://github.com/advisories/GHSA-6jq2-789q-fff2) (High)<br/>[CVE-2018-11796](https://github.com/advisories/GHSA-h8q5-g2cj-qr5h) (High)<br/>[CVE-2018-8017](https://github.com/advisories/GHSA-j53j-gmr9-h8g3) (Moderate)<br/>[CVE-2018-11762](https://github.com/advisories/GHSA-w6g3-v46q-5p28) (Moderate)<br/>[CVE-2022-30973](https://github.com/advisories/GHSA-qw3f-w4pf-jh5f) (Moderate)<br/>[CVE-2018-17197](https://github.com/advisories/GHSA-3448-vfvv-xp9g) (Moderate)|
+|[org.apache.tika:tika-core](http://tika.apache.org/)|v1.18|03/15/20|amit.pandey |Apache-2.0|[CVE-2018-11796](https://github.com/advisories/GHSA-h8q5-g2cj-qr5h) (High)<br/>[CVE-2019-10094](https://github.com/advisories/GHSA-mm7m-xg4h-6m52) (High)<br/>[CVE-2019-10088](https://github.com/advisories/GHSA-mfwh-gqx8-c787) (High)<br/>[CVE-2018-11761](https://github.com/advisories/GHSA-6jq2-789q-fff2) (High)<br/>[CVE-2018-8017](https://github.com/advisories/GHSA-j53j-gmr9-h8g3) (Moderate)<br/>[CVE-2018-11762](https://github.com/advisories/GHSA-w6g3-v46q-5p28) (Moderate)<br/>[CVE-2022-30973](https://github.com/advisories/GHSA-qw3f-w4pf-jh5f) (Moderate)<br/>[CVE-2018-17197](https://github.com/advisories/GHSA-3448-vfvv-xp9g) (Moderate)|
 |[org.apache.tika:tika-parsers](http://tika.apache.org/)|v1.17|03/15/20|amit.pandey |Apache-2.0|[CVE-2018-17197](https://github.com/advisories/GHSA-3448-vfvv-xp9g) (Moderate)<br/>[CVE-2018-1339](https://github.com/advisories/GHSA-p699-3wgc-7h72) (Moderate)|
 |[org.apache.tiles:tiles-jsp]()|v3.0.8|12/16/19|catalin-burcea |Apache-2.0|N/A|
 |[org.apache.tomcat.embed:tomcat-embed-jasper](https://tomcat.apache.org/)|N/A|12/05/19|catalin-burcea |Apache-2.0|N/A|
-|[org.apache.tomcat:tomcat-catalina](https://tomcat.apache.org/)|v8.5.24|04/18/20|Anshul Bansal |Apache-2.0|[CVE-2020-9484](https://github.com/advisories/GHSA-344f-f5vg-2jfj) (High)<br/>[CVE-2023-46589](https://github.com/advisories/GHSA-fccv-jmmp-qg76) (High)<br/>[CVE-2023-28708](https://github.com/advisories/GHSA-2c9m-w27f-53rm) (Moderate)|
+|[org.apache.tomcat:tomcat-catalina](https://tomcat.apache.org/)|v8.5.24|04/18/20|Anshul Bansal |Apache-2.0|[CVE-2023-46589](https://github.com/advisories/GHSA-fccv-jmmp-qg76) (High)<br/>[CVE-2020-9484](https://github.com/advisories/GHSA-344f-f5vg-2jfj) (High)<br/>[CVE-2023-28708](https://github.com/advisories/GHSA-2c9m-w27f-53rm) (Moderate)|
 |[org.apache.tomcat:tomcat-dbcp](https://tomcat.apache.org/)|v8.5.8|07/12/18|Sanjay Patel |Apache-2.0|N/A|
 |[org.apache.tomcat:tomcat-jdbc](https://tomcat.apache.org/)|v8.5.33|03/22/20|amit.pandey |Apache-2.0|N/A|
 |[org.apache.tomcat:tomcat-servlet-api](https://tomcat.apache.org/)|v8.5.11|02/11/20|sampada |Apache-2.0,CDDL-1.1,AAL|N/A|
@@ -1990,7 +1990,7 @@ Full tech stack [here](/techstack.md)
 |[org.eclipse.persistence:org.eclipse.persistence.jpa](http://www.eclipse.org/eclipselink)|v2.7.0|01/26/20|Dhawal Kapil |EPL-2.0,AAL|N/A|
 |[org.ehcache:ehcache](http://ehcache.org)|N/A|07/12/18|Sanjay Patel |Apache-2.0|N/A|
 |[org.elasticsearch.client:transport](https://github.com/elastic/elasticsearch)|v5.6.0|12/05/19|catalin-burcea |Apache-2.0|N/A|
-|[org.elasticsearch:elasticsearch](https://github.com/elastic/elasticsearch)|v5.6.0|12/05/19|catalin-burcea |Apache-2.0|[CVE-2019-7611](https://github.com/advisories/GHSA-fj32-6v7m-57pg) (High)<br/>[CVE-2018-3831](https://github.com/advisories/GHSA-r9fv-qpm9-rj4g) (High)<br/>[CVE-2023-31418](https://github.com/advisories/GHSA-2cqf-6xv9-f22w) (High)<br/>[CVE-2021-22144](https://github.com/advisories/GHSA-3393-hvrj-w7v3) (Moderate)<br/>[CVE-2021-22137](https://github.com/advisories/GHSA-hr65-qq6p-87r4) (Moderate)<br/>[CVE-2021-22135](https://github.com/advisories/GHSA-62ww-4p3p-7fhj) (Moderate)<br/>[CVE-2020-7021](https://github.com/advisories/GHSA-cqgv-256r-m9r8) (Moderate)<br/>[CVE-2019-7614](https://github.com/advisories/GHSA-jqm6-m3j3-8gg9) (Moderate)<br/>[CVE-2020-7019](https://github.com/advisories/GHSA-c77j-p484-h84m) (Moderate)<br/>[CVE-2020-7020](https://github.com/advisories/GHSA-g9fw-9x87-rmrj) (Low)|
+|[org.elasticsearch:elasticsearch](https://github.com/elastic/elasticsearch)|v5.6.0|12/05/19|catalin-burcea |Apache-2.0|[CVE-2018-3831](https://github.com/advisories/GHSA-r9fv-qpm9-rj4g) (High)<br/>[CVE-2023-31418](https://github.com/advisories/GHSA-2cqf-6xv9-f22w) (High)<br/>[CVE-2019-7611](https://github.com/advisories/GHSA-fj32-6v7m-57pg) (High)<br/>[CVE-2018-3824](https://github.com/advisories/GHSA-mjpc-qx7h-r8c9) (Moderate)<br/>[CVE-2021-22144](https://github.com/advisories/GHSA-3393-hvrj-w7v3) (Moderate)<br/>[CVE-2021-22137](https://github.com/advisories/GHSA-hr65-qq6p-87r4) (Moderate)<br/>[CVE-2021-22135](https://github.com/advisories/GHSA-62ww-4p3p-7fhj) (Moderate)<br/>[CVE-2020-7021](https://github.com/advisories/GHSA-cqgv-256r-m9r8) (Moderate)<br/>[CVE-2019-7614](https://github.com/advisories/GHSA-jqm6-m3j3-8gg9) (Moderate)<br/>[CVE-2020-7019](https://github.com/advisories/GHSA-c77j-p484-h84m) (Moderate)<br/>[CVE-2020-7020](https://github.com/advisories/GHSA-g9fw-9x87-rmrj) (Low)|
 |[org.fluttercode.datafactory:datafactory](http://www.andygibson.net/blog/projects/)|v0.8|12/05/19|catalin-burcea |LGPL-3.0|N/A|
 |[org.flywaydb:flyway-core](https://flywaydb.org)|v5.1.4|12/05/19|catalin-burcea |Apache-2.0|N/A|
 |[org.freemarker:freemarker](https://freemarker.apache.org/)|v2.3.28|12/05/19|catalin-burcea |Apache-2.0|N/A|
@@ -2143,7 +2143,7 @@ Full tech stack [here](/techstack.md)
 |[org.ow2.asm:asm-util](http://asm.ow2.io/)|v5.2|04/26/18|amit2103 |BSD-3-Clause|N/A|
 |[org.owasp.esapi:esapi](https://www.owasp.org/index.php/Category:OWASP_Enterprise_Security_API)|v2.1.0|10/07/19|Sjmillington |BSD-3-Clause,CC0-1.0|[](https://github.com/advisories/GHSA-7c2q-5qmr-v76q) (High)<br/>[](https://github.com/advisories/GHSA-r68h-jhhj-9jvm) (High)<br/>[CVE-2022-23457](https://github.com/advisories/GHSA-8m5h-hrqm-pxm2) (High)<br/>[CVE-2013-5960](https://github.com/advisories/GHSA-2g56-7jv7-wxxq) (Moderate)<br/>[CVE-2022-24891](https://github.com/advisories/GHSA-q77q-vx4q-xx6q) (Moderate)|
 |[org.pcollections:pcollections](https://pcollections.org)|v2.1.2|04/30/20|mikr |MIT|N/A|
-|[org.postgresql:postgresql](http://jdbc.postgresql.org)|v42.2.11|03/22/20|amit.pandey |BSD-2-Clause|[CVE-2022-21724](https://github.com/advisories/GHSA-v7wg-cpwc-24m4) (High)<br/>[CVE-2022-31197](https://github.com/advisories/GHSA-r38f-c4h4-hqq2) (High)<br/>[CVE-2020-13692](https://github.com/advisories/GHSA-88cc-g835-76rp) (High)<br/>[](https://github.com/advisories/GHSA-673j-qm5f-xpv8) (Moderate)<br/>[CVE-2022-41946](https://github.com/advisories/GHSA-562r-vg33-8x8h) (Moderate)<br/>[CVE-2022-26520](https://github.com/advisories/GHSA-727h-hrw8-jg8q) (Low)|
+|[org.postgresql:postgresql](http://jdbc.postgresql.org)|v42.2.11|03/22/20|amit.pandey |BSD-2-Clause|[CVE-2024-1597](https://github.com/advisories/GHSA-24rp-q3w6-vc56) (Critical)<br/>[CVE-2022-31197](https://github.com/advisories/GHSA-r38f-c4h4-hqq2) (High)<br/>[CVE-2022-21724](https://github.com/advisories/GHSA-v7wg-cpwc-24m4) (High)<br/>[CVE-2020-13692](https://github.com/advisories/GHSA-88cc-g835-76rp) (High)<br/>[](https://github.com/advisories/GHSA-673j-qm5f-xpv8) (Moderate)<br/>[CVE-2022-41946](https://github.com/advisories/GHSA-562r-vg33-8x8h) (Moderate)<br/>[CVE-2022-26520](https://github.com/advisories/GHSA-727h-hrw8-jg8q) (Low)|
 |[org.powermock:powermock-api-mockito](http://www.powermock.org)|v1.6.6|07/12/18|Sanjay Patel |Apache-2.0|N/A|
 |[org.powermock:powermock-api-mockito2](http://www.powermock.org)|v2.0.0|04/19/20|amit.pandey |Apache-2.0|N/A|
 |[org.powermock:powermock-module-junit4](http://www.powermock.org)|v2.0.0|04/19/20|amit.pandey |Apache-2.0|N/A|
